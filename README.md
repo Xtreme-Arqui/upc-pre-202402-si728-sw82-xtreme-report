@@ -5,30 +5,30 @@
 
 **Ingeniería de Software**
 
-Ciclo: 2024-1
+Ciclo: 2024-2
 
 </div>
 
-Curso: Desarrollo de Soluciones IoT
+Curso: Arquitecturas de Software Emergentes
 
-Sección: WS71
+Sección: SW82
 
-Profesor: Velasquez Nuñez, Angel Augusto
+Profesor: Rojas Malasquez, Royer Edelwer
 
 ---
 
-# Informe del Trabajo Final
+# Informe del TB1
 
-## XForce
+## Xtream
 
-### PetHealth
+### Go2Climb
 
 #### Team Members
 
 | Integrante                               | Código     |
 | ---------------------------------------- | ---------- |
-| Almeyda Alania, Fredy Antonio            | U20201B033 |
-| Aquino Cruz, Leonardo José               | U20201B949 |
-| Jaramillo Almora, Jesica Rut             | U20201C163 |
-| Mendoza Barco, Saúl Enrique              | U20211C677 |
-| Quispe Villegas, Emerson Gerardo         | U20181G936 |
+| Caceres Bueno, Arnol Omar                | U20201B033 |
+| Quispe Villegas, Emerson Gerardo         | U20201B949 |
+| Stefano Márquez, Piero                   | U20201C163 |
+| Surco Reyes, Franco Marcelo Manuel       | U20211C677 |
+| Valencia Rivera, Fiorella Viviana        | U20181G936 |
