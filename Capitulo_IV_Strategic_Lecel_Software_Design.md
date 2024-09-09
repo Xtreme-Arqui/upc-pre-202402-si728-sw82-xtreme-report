@@ -284,18 +284,35 @@ En este escenario, los turistas utilizan la aplicación web para crear, confirma
 <div align="center"><img src="./Resources/images/scenario2.png">
 
 ### 4.2.4. Bounded Context Canvases
-- Booking Management
-En este Bounded Context de Reservas, se puede visualizar la comunicación con los Bounded Context de Subscription and Payments, Transport Management y Notification Management. También, este gestiona la información y estados de las reservaciones dentro de la aplicación web.
-<div align="center"><img src="./Resources/images/scenario2.png">
+- Account Context 
+El Bounded Context “Account” gestiona el registro y autenticación de usuarios, asegurando un sistema seguro. Los turistas y agencias autenticados envían solicitudes de registro y login, que el sistema procesa y confirma. Solo los usuarios autenticados pueden acceder a ciertas funcionalidades, siguiendo políticas de seguridad estrictas.
+
+<div align="center"><img src="./Resources/images/accountCT">
     
-- a
-- b
-- c
-- d
-- e
-- f
-- g
-- h
+- Agency Context 
+Este Bounded Context, muestra cómo se comunican los diferentes actores dentro del sistema. Dentro, el turista autenticado en la plataforma envía una solicitud de datos de actividad en tiempo real. Esta solicitud se representa con un ícono de turista y un ícono de solicitud de datos, indicando que el turista está consultando su información de actividad, luego el sistema de servicio procesa esta solicitud y envía los datos de actividad actualizados a la agencia
+
+<div align="center"><img src="./Resources/images/agencyCT">
+    
+- Service Context 
+Este Bounded Context muestra cómo interactúan los diferentes actores en la gestión de servicios. Dentro, una agencia autenticada en la plataforma envía una solicitud para añadir, actualizar o remover un servicio. Esta solicitud se representa con un ícono de agencia y un ícono de gestión de servicios, indicando que la agencia está realizando cambios en su catálogo de servicios. Luego, el sistema de servicio procesa la solicitud y actualiza el catálogo, notificando a otros sistemas relevantes sobre los cambios realizados.
+
+<div align="center"><img src="./Resources/images/serviceCT">
+    
+- Reservation Context 
+Este Bounded Context muestra cómo interactúan los diferentes actores en la gestión de reservas. Dentro, un turista autenticado en la plataforma envía una solicitud para crear, confirmar o cancelar una reserva. Esta solicitud se representa con un ícono de turista y un ícono de gestión de reservas, indicando que el turista está interactuando con el sistema para gestionar su reserva. Luego, el sistema de reservas procesa la solicitud, actualiza el historial de reservas, y envía notificaciones sobre pagos y cambios a otros sistemas relevantes.
+
+<div align="center"><img src="./Resources/images/reservCT">
+    
+- IoT Monitoring Context 
+- Subscription Context 
+Este Bounded Context muestra cómo interactúan los diferentes actores en la gestión de suscripciones. Dentro, un turista autenticado en la plataforma envía una solicitud para comprar, renovar o cancelar una suscripción. Esta solicitud se representa con un ícono de turista y un ícono de gestión de suscripciones, indicando que el turista está interactuando con el sistema para administrar su suscripción. Luego, el sistema de suscripciones procesa la solicitud, actualiza el historial de suscripciones y notifica a otros sistemas relevantes sobre los cambios realizados.
+
+<div align="center"><img src="./Resources/images/subsCT">
+    
+- Review Context
+- Promotions Context
+
 ### 4.2.5. Context Mapping
 Context Mapping es un paso crucial dentro del Domain-Driven Design que se enfoca en entender cómo los diferentes bounded contexts (contextos delimitados) dentro de un sistema interactúan y se conectan entre sí. Este proceso permite identificar las relaciones y dependencias entre los distintos dominios o subdominios que componen el proyecto
 
