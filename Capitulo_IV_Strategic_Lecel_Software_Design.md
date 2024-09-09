@@ -284,7 +284,18 @@ En este escenario, los turistas utilizan la aplicación web para crear, confirma
 <div align="center"><img src="./Resources/images/scenario2.png">
 
 ### 4.2.4. Bounded Context Canvases
-
+- Booking Management
+En este Bounded Context de Reservas, se puede visualizar la comunicación con los Bounded Context de Subscription and Payments, Transport Management y Notification Management. También, este gestiona la información y estados de las reservaciones dentro de la aplicación web.
+<div align="center"><img src="./Resources/images/scenario2.png">
+    
+- a
+- b
+- c
+- d
+- e
+- f
+- g
+- h
 ### 4.2.5. Context Mapping
 Context Mapping es un paso crucial dentro del Domain-Driven Design que se enfoca en entender cómo los diferentes bounded contexts (contextos delimitados) dentro de un sistema interactúan y se conectan entre sí. Este proceso permite identificar las relaciones y dependencias entre los distintos dominios o subdominios que componen el proyecto
 
