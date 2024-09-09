@@ -49,15 +49,13 @@ A continuación, se especificarán los epics y los user stories con el objetivo 
 Dado que la agencia de turismo está autenticada en la plataforma, cuando un turista ha contratado uno de sus servicios, entonces accede a los datos de actividad del turista (pasos, latidos del corazón, temperatura, ubicación) durante el periodo del servicio.                                                                                            | EP002                     |
 
 - Requisitos no funcionales
-<div align="center">
-    <img src="./Resources/images/requisitos_no_funcionales.png">
+<img src="./Resources/images/requisitos_no_funcionales.png">
 
 ## 3.3. Impact Mapping.
 
 El impact map nos permite analizar los business goal para ciertos User Stories en específico y así formar un Product backlog. De esta manera, vemos cómo podemos solucionar las necesidades de cada usuario con nuestra aplicación.
 
-<div align="center">
-    <img src="./Resources/images/impact_mapping.png">
+<img src="./Resources/images/impact_mapping.png">
 
 ## 3.4. Product Backlog.
 
@@ -85,8 +83,7 @@ El impact map nos permite analizar los business goal para ciertos User Stories e
 | 18     | US-11  | Calificar servicio     | Como turista deseo calificar el servicio que contraté para mostrar mi agrado o desagrado y más usuarios sepan sobre el mismo.                                           | 3                       |
 | 19     | US-09  | Cambiar plan de suscripción            | Como agencia deseo cambiar mi plan de suscripción para ofrecer más servicios a mis clientes.                                                                            | 8                       |
 | 20     | US-10  | Crear promociones             | Como agencia deseo crear campañas de promoción para llegar a más clientes.                                                                          | 5                       |
-| 21     | US-21  | Acceso al aplicativo             | Como usuario de “Go2Climb” Quiero poder utilizar la aplicación desde diferentes navegadores
-Para poder buscar agencias y servicios de alpinismo sin estar limitado a un navegador.                                                                           | 3                       |
+| 21     | US-21  | Acceso al aplicativo             | Como usuario de “Go2Climb” Quiero poder utilizar la aplicación desde diferentes navegadores Para poder buscar agencias y servicios de alpinismo sin estar limitado a un navegador.                                                                           | 3                       |
 | 22     | US-22  | Interfaz interactiva y deductiva            | Como usuario de la plataforma Quiero que la velocidad de carga de la aplicación sea rápida y eficiente, Para poder acceder rápidamente a la información de las agencias y servicios  sin demoras.                                                                         | 3                      |
 | 23     | US-23  | Visualización del Historial de Salud             | Como usuario Quiero poder buscar y reservar vuelos y hoteles de manera rápida y sencilla Para que pueda planificar mis viajes sin problemas                                                                            | 3                       |
 | 24     | US-24  | Protección de data             | Como usuario Quiero que mi información personal y financiera esté protegida contra el acceso no autorizado o el robo Para que pueda reservar vuelos y hoteles con confianza                                                                            | 5                       |
