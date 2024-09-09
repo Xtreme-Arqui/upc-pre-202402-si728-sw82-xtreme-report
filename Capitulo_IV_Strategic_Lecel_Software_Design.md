@@ -311,8 +311,15 @@ Este Bounded Context muestra cómo interactúan los diferentes actores en la ges
 <div align="center"><img src="./Resources/images/subsCT.png">
     
 - Review Context
-- Promotions Context
+Este contexto se encarga de gestionar las reseñas de los usuarios sobre los paquetes turísticos. Los turistas pueden enviar, editar o eliminar sus reseñas sobre sus experiencias. Estas reseñas son fundamentales para determinar la calificación general de un paquete turístico, influyendo en las decisiones de otros posibles clientes.
 
+<div align="center"><img src="./Resources/images/reviewCT.png">
+    
+- Promotions Context
+Este contexto gestiona las promociones y descuentos disponibles para los servicios turísticos ofrecidos en la plataforma. Se encarga de la creación, activación y expiración de promociones, permitiendo que las agencias apliquen códigos de descuento para atraer a más clientes y aumentar el compromiso con los servicios.
+
+<div align="center"><img src="./Resources/images/promoCT.png">
+    
 ### 4.2.5. Context Mapping
 Context Mapping es un paso crucial dentro del Domain-Driven Design que se enfoca en entender cómo los diferentes bounded contexts (contextos delimitados) dentro de un sistema interactúan y se conectan entre sí. Este proceso permite identificar las relaciones y dependencias entre los distintos dominios o subdominios que componen el proyecto
 
