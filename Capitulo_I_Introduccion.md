@@ -21,6 +21,7 @@ Nuestro enfoque garantiza que tanto las agencias como los aventureros puedan dis
 + Soy un estudiante del quinto año de la carrera de Ingeniería de Software y practicante de Analista de datos. Me considero fan de la tecnología y el aprendizaje continuo, estoy siempre buscando aportar de manera positiva y significativa al desarrollo y mejora constante de las actividades propuestas.
 
 #### Emerson Gerardo Quispe Villegas
+![emerson](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/362ad089-35e4-430b-a21d-880857bdf76d)
 
 + Soy estudiante de la carrera de ingeniería de software. Me gusta mucho la música y casi siempre realizo mis actividades escuchando canciones. Me gusta trabajar en equipo, ya que todos los integrantes podemos proponer ideas y corregir errores del otro para lograr nuestro objetivo. Una de mis cualidades es ser responsable, paciente, puntual y tener compromiso con los trabajos que me designen.
 
