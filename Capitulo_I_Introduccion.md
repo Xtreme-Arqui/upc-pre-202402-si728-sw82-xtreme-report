@@ -14,9 +14,7 @@ Nuestro enfoque garantiza que tanto las agencias como los aventureros puedan dis
 ### 1.1.2. Perfiles de integrantes del equipo
 
 #### Arnol Omar Caceres Bueno  
-<div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQFJ8r8LSG4uNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705546240231?e=1731542400&v=beta&t=DYFNrkea4REzN-dl6OodZBBbpo25V5TOVcchaNWf6hk">
-
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQFJ8r8LSG4uNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705546240231?e=1731542400&v=beta&t=DYFNrkea4REzN-dl6OodZBBbpo25V5TOVcchaNWf6hk">
 
 + Soy un estudiante del quinto año de la carrera de Ingeniería de Software y practicante de Analista de datos. Me considero fan de la tecnología y el aprendizaje continuo, estoy siempre buscando aportar de manera positiva y significativa al desarrollo y mejora constante de las actividades propuestas.
 
@@ -34,8 +32,7 @@ Nuestro enfoque garantiza que tanto las agencias como los aventureros puedan dis
 +
 
 #### Valencia Rivera Fiorella Viviana
-<div align="center">
-    <img src="https://media.discordapp.net/attachments/941735785529487416/1282518864298639360/WhatsApp_Image_2024-09-08_at_8.33.32_PM.jpeg?ex=66dfa645&is=66de54c5&hm=fe5828b7aad9cc986b88f70f38f57b54fdb4fdffff5c46553448cd711e12bb92&=&format=webp&width=883&height=662">
+<img src="https://media.discordapp.net/attachments/941735785529487416/1282518864298639360/WhatsApp_Image_2024-09-08_at_8.33.32_PM.jpeg?ex=66dfa645&is=66de54c5&hm=fe5828b7aad9cc986b88f70f38f57b54fdb4fdffff5c46553448cd711e12bb92&=&format=webp&width=883&height=662">
 
 + Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Mi enfoque se centra en el desarrollo backend y la ciencia de datos. Poseo conocimiento en lenguajes de programación como Java, Python y C#. Además, tengo un interés particular en el campo de la ciberseguridad. 
 
