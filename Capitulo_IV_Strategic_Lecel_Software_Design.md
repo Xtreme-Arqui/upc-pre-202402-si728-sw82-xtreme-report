@@ -134,9 +134,9 @@ Se identificaron las áreas que representaban desafíos en el flujo de trabajo, 
 - Timelines 
 Desarrollamos varios "timelines" para coordinar y gestionar nuestras actividades clave. Estos nos ayudaron a mantener una visión clara de los hitos importantes y a asegurar que las tareas críticas se alinearan con los plazos establecidos
 <div align="center">
-    <img src="./Resources/images/Timelines.png.png">
+    <img src="./Resources/images/Timelines.png">
 <div align="center">
-    <img src="./Resources/images/Timelines1.png.png">
+    <img src="./Resources/images/Timelines1.png">
 
 - Pivotal  Points  
 Detectamos puntos clave dentro del proyecto que nos permitieron ajustar nuestras decisiones estratégicas en momentos cruciales para garantizar el éxito en la ejecución.
