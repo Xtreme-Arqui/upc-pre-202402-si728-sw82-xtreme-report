@@ -9,8 +9,7 @@ Esta sección se enfoca en identificar distintos tipos de información clave que
 #### 4.1.2.1. Primary Functionality
 Para esta sección utilizaremos los historias de usuario más importantes
 
-<div align="center">
-    <img src="./Resources/images/primary_functionality.png"> 
+<img src="./Resources/images/primary_functionality.png"> 
 
 #### 4.1.2.2. Quality attribute Scenarios
 De acuerdo a las user stories seleccionadas, se seleccionaron los atributos de calidad: Seguridad, Disponibilidad, Rendimiento para asegurar que la aplicación cumpla con los estándares de calidad esperados
@@ -109,11 +108,9 @@ De acuerdo a las user stories seleccionadas, se seleccionaron los atributos de c
 
 ### 4.1.5. Quality Attribute Scenario Refinements.
 
-<div align="center">
-    <img src="./Resources/images/scenario_refinement_us04.png"> 
+<img src="./Resources/images/scenario_refinement_us04.png"> 
 
-<div align="center">
-    <img src="./Resources/images/scenario_refinement_us05.png"> 
+<img src="./Resources/images/scenario_refinement_us05.png"> 
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
@@ -123,75 +120,69 @@ Se aplicó una metodología visual y colaborativa que facilitó la creación de 
 
 - Unstructured Exploration 
 Llevamos a cabo una fase inicial en la que exploramos diversas ideas y conocimientos relacionados con el dominio del negocio. Esto nos permitió establecer las bases necesarias para el modelado en las siguientes fases del proceso.
-<div align="center">
-    <img src="./Resources/images/Unstructured Exploration.png">
+<img src="./Resources/images/Unstructured Exploration.png">
 
 - Pain Points  
 Se identificaron las áreas que representaban desafíos en el flujo de trabajo, permitiendo así enfocarnos en soluciones que optimizaran los procesos y la colaboración efectiva dentro del equipo.
-<div align="center">
-    <img src="./Resources/images/Pain Points.png">
+<img src="./Resources/images/Pain Points.png">
 
 - Timelines 
 Desarrollamos varios "timelines" para coordinar y gestionar nuestras actividades clave. Estos nos ayudaron a mantener una visión clara de los hitos importantes y a asegurar que las tareas críticas se alinearan con los plazos establecidos
-<div align="center">
-    <img src="./Resources/images/Timelines.png">
-<div align="center">
-    <img src="./Resources/images/Timelines1.png">
+ <img src="./Resources/images/Timelines.png">
+ 
+<img src="./Resources/images/Timelines1.png">
 
 - Pivotal  Points  
 Detectamos puntos clave dentro del proyecto que nos permitieron ajustar nuestras decisiones estratégicas en momentos cruciales para garantizar el éxito en la ejecución.
-<div align="center">
-    <img src="./Resources/images/Pivotal Points.png">
-<div align="center">
-    <img src="./Resources/images/Pivotal Points1.png">
-<div align="center">
-    <img src="./Resources/images/Pivotal Points2.png">
+<img src="./Resources/images/Pivotal Points.png">
+
+<img src="./Resources/images/Pivotal Points1.png">
+
+<img src="./Resources/images/Pivotal Points2.png">
 
 - Commands  
 Se identificaron las áreas que representaban desafíos en el flujo de trabajo, permitiendo así enfocarnos en soluciones que optimizaran los procesos y la colaboración efectiva dentro del equipo.
-<div align="center">
-    <img src="./Resources/images/Commands.png">
-<div align="center">
-    <img src="./Resources/images/Commands1.png">
-<div align="center">
-    <img src="./Resources/images/Commands2.png">
+<img src="./Resources/images/Commands.png">
+
+<img src="./Resources/images/Commands1.png">
+
+<img src="./Resources/images/Commands2.png">
 
 - Policies 
 Definimos y aplicamos diversas políticas dentro del sistema que sirvieron como reglas guía para la toma de decisiones y la coherencia en los comportamientos. Estas políticas fueron esenciales para mantener la estabilidad y seguridad en las operaciones.
-<div align="center">
-    <img src="./Resources/images/Policies.png">
-<div align="center">
-    <img src="./Resources/images/Policies1.png">
+
+<img src="./Resources/images/Policies.png">
+
+<img src="./Resources/images/Policies1.png">
 
 - Read Models 
 Definimos y aplicamos diversas políticas dentro del sistema que sirvieron como reglas guía para la toma de decisiones y la coherencia en los comportamientos. Estas políticas fueron esenciales para mantener la estabilidad y seguridad en las operaciones.
-<div align="center">
-    <img src="./Resources/images/Read Models.png">
-<div align="center">
-    <img src="./Resources/images/Read Models1.png">
-<div align="center">
-    <img src="./Resources/images/Read Models2.png">
+<img src="./Resources/images/Read Models.png">
+
+<img src="./Resources/images/Read Models1.png">
+
+<img src="./Resources/images/Read Models2.png">
 
 - External Systems 
 Se identificaron los sistemas externos necesarios para la integración y operación del proyecto, que aportaron fuentes de datos externas o servicios complementarios cruciales para el éxito del sistema
-<div align="center">
-    <img src="./Resources/images/External Systems.png">
+
+<img src="./Resources/images/External Systems.png">
 
 - Aggregates 
 Analizamos los elementos y entidades del dominio para identificar aquellos que tienen un significado específico en el contexto, garantizando que las reglas de negocio sean consistentes dentro de estos agregados.
-<div align="center">
-    <img src="./Resources/images/Aggregates.png">
-<div align="center">
-    <img src="./Resources/images/Aggregates1.png">
+
+<img src="./Resources/images/Aggregates.png">
+
+<img src="./Resources/images/Aggregates1.png">
 
 - Bounded Contexts 
 Definimos varios "bounded contexts" para delimitar áreas funcionales específicas dentro del sistema, estableciendo fronteras claras entre los diferentes componentes y asegurando una correcta separación de responsabilidades
-<div align="center">
-    <img src="./Resources/images/Bounded Contexts.png">
-<div align="center">
-    <img src="./Resources/images/Bounded Contexts1.png">
-<div align="center">
-    <img src="./Resources/images/Bounded Contexts2.png">
+
+<img src="./Resources/images/Bounded Contexts.png">
+
+<img src="./Resources/images/Bounded Contexts1.png">
+
+<img src="./Resources/images/Bounded Contexts2.png">
 
 Enlace: https://app.mural.co/t/psyhelp9597/m/psyhelp9597/1688592463381/cd42d30ff1cc621e5aafb32cc6ec1c2f98d66ff3?sender=uf19e2134468e05a2ff112512 
 
@@ -200,12 +191,12 @@ Enlace: https://app.mural.co/t/psyhelp9597/m/psyhelp9597/1688592463381/cd42d30ff
 1. Account Context
 Este contexto gestiona todo lo relacionado con el registro y la autenticación de los usuarios, ya sean turistas o agencias. Incluye eventos como el registro de nuevos usuarios, el inicio de sesión, y la aplicación de políticas de autenticación.
 
-<div align="center"><img src="./Resources/images/Bounded Contexts2.png">
+<img src="./Resources/images/Bounded Contexts2.png">
 
 1. Account Context
 Este contexto gestiona todo lo relacionado con el registro y la autenticación de los usuarios, ya sean turistas o agencias. Incluye eventos como el registro de nuevos usuarios, el inicio de sesión, y la aplicación de políticas de autenticación.
 
-<div align="center"><img src="./Resources/images/Account Context.png">
+<img src="./Resources/images/Account Context.png">
 
 2. Agency Context  
 Este contexto está enfocado en la creación y gestión de perfiles de agencias. Los eventos relevantes incluyen la creación de perfiles de agencias y el manejo de errores en este proceso. Los elementos clave son: 
@@ -213,7 +204,7 @@ Este contexto está enfocado en la creación y gestión de perfiles de agencias.
 - Perfil de Agencia Creado: Confirma la creación exitosa del perfil.
 - Fallo en la Creación del Perfil: Maneja errores durante el proceso de registro de la agencia.
 
-<div align="center"><img src="./Resources/images/Agency Context.png">
+<img src="./Resources/images/Agency Context.png">
 
 3. Service Context
 Este es uno de los contextos más importantes, pues gestiona los servicios ofrecidos por las agencias y las acciones relacionadas con estos servicios. Aquí se controlan acciones como la adición, actualización y remoción de servicios, junto con la aplicación de filtros para mejorar la experiencia del usuario:
@@ -222,7 +213,7 @@ Este es uno de los contextos más importantes, pues gestiona los servicios ofrec
 - Política de Propiedad del Servicio: Define las reglas de propiedad sobre los servicios añadidos. 
 
 
-<div align="center"><img src="./Resources/images/Service Context.png">
+<img src="./Resources/images/Service Context.png">
 
 4. Reservation Context  
 Este contexto cubre la funcionalidad de gestión de reservas, desde la creación de una reserva hasta su confirmación o cancelación. Los eventos incluyen el manejo de pagos y el historial de reservas: 
@@ -231,7 +222,7 @@ Este contexto cubre la funcionalidad de gestión de reservas, desde la creación
 - Política de Cancelación de Reservas: Reglas que regulan las cancelaciones de reservas y sus efectos
 
 
-<div align="center"><img src="./Resources/images/Reservation Context.png">
+<img src="./Resources/images/Reservation Context.png">
 
 5. IoT Monitoring Context  
 Este contexto está diseñado para manejar la integración de dispositivos IoT que monitorean las actividades de los turistas. Aquí se gestionan eventos como la entrega de dispositivos y el monitoreo de datos en tiempo real:
@@ -240,14 +231,14 @@ Este contexto está diseñado para manejar la integración de dispositivos IoT q
 - Política de Activación de Dispositivos: Define las reglas sobre cómo y cuándo se activan los dispositivos IoT. 
 
 
-<div align="center"><img src="./Resources/images/IoT Monitoring Context.png">
+<img src="./Resources/images/IoT Monitoring Context.png">
 
 6. Subscription Context
 Este contexto se enfoca en la gestión de suscripciones dentro del sistema. Los eventos incluyen la compra, renovación y cancelación de suscripciones:
 - Compra y Cancelación de Suscripción: Procesos para que los turistas adquieran o cancelen suscripciones a servicios.
 - Política de Gestión de Suscripciones: Reglas que guían el comportamiento de las suscripciones. 
 
-<div align="center"><img src="./Resources/images/Subscription Context.png">
+<img src="./Resources/images/Subscription Context.png">
 
 7. Review Context
 En este contexto se gestiona el sistema de reseñas de los servicios por parte de los turistas. Los eventos clave incluyen la publicación, actualización y eliminación de reseñas: 
@@ -255,7 +246,7 @@ En este contexto se gestiona el sistema de reseñas de los servicios por parte d
 - Eliminación de Reseñas: Proceso para gestionar la eliminación de reseñas por parte de los usuarios.
 - Visualización de Calificaciones de Agencias: Gestión de las calificaciones otorgadas a las agencias por los usuarios
 
-<div align="center"><img src="./Resources/images/Review Context.png">
+<img src="./Resources/images/Review Context.png">
 
 8. Promotions Context
 Este contexto está enfocado en la gestión de promociones y descuentos que las agencias ofrecen a los turistas. Los eventos incluyen la aplicación, expiración y finalización de promociones: 
@@ -263,79 +254,79 @@ Este contexto está enfocado en la gestión de promociones y descuentos que las 
 - Finalización y Extensión de Promociones: Procesos para manejar el ciclo de vida de las promociones ofrecidas por las agencias.
 - Política de Expiración de Promociones: Define las reglas que determinan cuándo expiran las promociones.
 
-<div align="center"><img src="./Resources/images/Promotions Context.png">
+<img src="./Resources/images/Promotions Context.png">
 
 
 ### 4.2.3. Domain Message Flows Modeling.
 - Escenario 1: Registro y autenticación de usuario
-<div align="center"><img src="./Resources/images/scenario1.png">
+<img src="./Resources/images/scenario1.png">
 
 - Escenario 2: Creación de un servicio
-<div align="center"><img src="./Resources/images/scenario2.png">
+<img src="./Resources/images/scenario2.png">
 
 - Escenario 3: Creación y cancelación de una reserva
 En este escenario, los turistas utilizan la aplicación web para crear, confirmar o cancelar una reserva. Al solicitar una reserva, el sistema procesa el pago a través de un servicio externo y, tras su confirmación, genera la reserva correspondiente. Si el proceso de creación de la reserva es exitoso o si ocurre algún error, el sistema envía una notificación al turista informándole del estado de su solicitud y actualizando su historial de reservas.
-<div align="center"><img src="./Resources/images/scenario3.png">
+<img src="./Resources/images/scenario3.png">
 
 - Escenario 4: Creación de un servicio
-<div align="center"><img src="./Resources/images/scenario2.png">
+<img src="./Resources/images/scenario2.png">
 
 - Escenario 5: Creación de un servicio
-<div align="center"><img src="./Resources/images/scenario2.png">
+<img src="./Resources/images/scenario2.png">
 
 ### 4.2.4. Bounded Context Canvases
 - Account Context 
 El Bounded Context “Account” gestiona el registro y autenticación de usuarios, asegurando un sistema seguro. Los turistas y agencias autenticados envían solicitudes de registro y login, que el sistema procesa y confirma. Solo los usuarios autenticados pueden acceder a ciertas funcionalidades, siguiendo políticas de seguridad estrictas.
 
-<div align="center"><img src="./Resources/images/accountCT.png">
+<img src="./Resources/images/accountCT.png">
     
 - Agency Context 
 Este Bounded Context, muestra cómo se comunican los diferentes actores dentro del sistema. Dentro, el turista autenticado en la plataforma envía una solicitud de datos de actividad en tiempo real. Esta solicitud se representa con un ícono de turista y un ícono de solicitud de datos, indicando que el turista está consultando su información de actividad, luego el sistema de servicio procesa esta solicitud y envía los datos de actividad actualizados a la agencia
 
-<div align="center"><img src="./Resources/images/agencyCT.png">
+<img src="./Resources/images/agencyCT.png">
     
 - Service Context 
 Este Bounded Context muestra cómo interactúan los diferentes actores en la gestión de servicios. Dentro, una agencia autenticada en la plataforma envía una solicitud para añadir, actualizar o remover un servicio. Esta solicitud se representa con un ícono de agencia y un ícono de gestión de servicios, indicando que la agencia está realizando cambios en su catálogo de servicios. Luego, el sistema de servicio procesa la solicitud y actualiza el catálogo, notificando a otros sistemas relevantes sobre los cambios realizados.
 
-<div align="center"><img src="./Resources/images/serviceCT.png">
+<img src="./Resources/images/serviceCT.png">
     
 - Reservation Context 
 Este Bounded Context muestra cómo interactúan los diferentes actores en la gestión de reservas. Dentro, un turista autenticado en la plataforma envía una solicitud para crear, confirmar o cancelar una reserva. Esta solicitud se representa con un ícono de turista y un ícono de gestión de reservas, indicando que el turista está interactuando con el sistema para gestionar su reserva. Luego, el sistema de reservas procesa la solicitud, actualiza el historial de reservas, y envía notificaciones sobre pagos y cambios a otros sistemas relevantes.
 
-<div align="center"><img src="./Resources/images/reservCT.png">
+<img src="./Resources/images/reservCT.png">
     
 - IoT Monitoring Context 
 - Subscription Context 
 Este Bounded Context muestra cómo interactúan los diferentes actores en la gestión de suscripciones. Dentro, un turista autenticado en la plataforma envía una solicitud para comprar, renovar o cancelar una suscripción. Esta solicitud se representa con un ícono de turista y un ícono de gestión de suscripciones, indicando que el turista está interactuando con el sistema para administrar su suscripción. Luego, el sistema de suscripciones procesa la solicitud, actualiza el historial de suscripciones y notifica a otros sistemas relevantes sobre los cambios realizados.
 
-<div align="center"><img src="./Resources/images/subsCT.png">
+<img src="./Resources/images/subsCT.png">
     
 - Review Context
 Este contexto se encarga de gestionar las reseñas de los usuarios sobre los paquetes turísticos. Los turistas pueden enviar, editar o eliminar sus reseñas sobre sus experiencias. Estas reseñas son fundamentales para determinar la calificación general de un paquete turístico, influyendo en las decisiones de otros posibles clientes.
 
-<div align="center"><img src="./Resources/images/reviewCT.png">
+<img src="./Resources/images/reviewCT.png">
     
 - Promotions Context
 Este contexto gestiona las promociones y descuentos disponibles para los servicios turísticos ofrecidos en la plataforma. Se encarga de la creación, activación y expiración de promociones, permitiendo que las agencias apliquen códigos de descuento para atraer a más clientes y aumentar el compromiso con los servicios.
 
-<div align="center"><img src="./Resources/images/promoCT.png">
+<img src="./Resources/images/promoCT.png">
     
 ### 4.2.5. Context Mapping
 Context Mapping es un paso crucial dentro del Domain-Driven Design que se enfoca en entender cómo los diferentes bounded contexts (contextos delimitados) dentro de un sistema interactúan y se conectan entre sí. Este proceso permite identificar las relaciones y dependencias entre los distintos dominios o subdominios que componen el proyecto
 
-<div align="center"><img src="./Resources/images/context mapping.png">
+<img src="./Resources/images/context mapping.png">
 
 
 ## 4.3. Software Architecture
 
 ### 4.3.1. Software Architecture System Landscape Diagram. 
-<div align="center"><img src="./Resources/images/system landscape.png">
+<img src="./Resources/images/system landscape.png">
 
 ### 4.3.2. Software Architecture Context Level Diagrams. 
-<div align="center"><img src="./Resources/images/SystemContext.png">
+<img src="./Resources/images/SystemContext.png">
 
 ### 4.3.3. Software Architecture Container Level Diagrams. 
-<div align="center"><img src="./Resources/images/Container.png">
+<img src="./Resources/images/Container.png">
 
 ### 4.3.4. Software Architecture Deployment Diagrams 
 En el contexto de la aplicación de turismo que integra servicios de montañismo, los contenedores de software están desplegados en la nube de Azure y en dispositivos físicos a través de un sistema IoT (botas y relojes). La arquitectura de despliegue muestra cómo los diferentes componentes interactúan entre sí, destacando las siguientes características:
@@ -344,7 +335,7 @@ En el contexto de la aplicación de turismo que integra servicios de montañismo
 - API Application: Desplegada en Azure Cloud, esta aplicación gestiona las interacciones entre la aplicación web/móvil, la base de datos y los dispositivos IoT.
 - MySQL Database: La base de datos que almacena información crítica, como detalles de los servicios y los datos de los turistas, también está desplegada en Azure Cloud.
 - Sistema IoT: Dispositivos físicos como botas y relojes conectados a la plataforma Azure IoT Cloud, que recopilan datos de los turistas en tiempo real (pasos, latidos del corazón, ubicación, temperatura) y envían esta información a la API para su procesamiento y almacenamiento.
-<div align="center"><img src="./Resources/images/deployment_diagrams.png">
+<img src="./Resources/images/deployment_diagrams.png">
 
 ## Conclusiones
 Outsiders, la Startup encargada de distribuir servicios de turismo a todas las personas del mundo, garantiza a un mejor precio y una experiencia inolvidable, cuenta con un diseño eficiente que permite al sistema de la empresa registrar, guardar y presentar al cliente una mejor visualización de los servicios, a su vez es de fácil interacción para cualquier usuario.
