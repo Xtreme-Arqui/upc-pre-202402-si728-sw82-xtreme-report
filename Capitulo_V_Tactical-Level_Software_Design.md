@@ -154,3 +154,40 @@ Este diagrama incluiría la conexión entre controladores, servicios de aplicaci
 
 #### 5.4.7.2 Bounded Context Database Design Diagram
 <img src="./Resources/images/5.4.7.2 Bounded Context Database Design Diagram.PNG">
+
+## 5.5 Bounded Context IoT Monitoring
+### 5.5.1 Domain Layer
+- Entidades Principales: Dispositivo, Evento de Monitoreo.
+- Objetos de Valor: Ubicación GPS, Métricas de Sensores (como temperatura, pasos, ritmo cardíaco).
+- Servicios de Dominio: Gestión de Dispositivos, Análisis de Datos de Sensores.
+- Repositorios: Repositorio de Dispositivos, Repositorio de Eventos de Monitoreo.
+
+### 5.5.2 Interface Layer
+- APIs:
+  - POST /dispositivos (para registrar nuevos dispositivos IoT)
+  - GET /dispositivos/{id} (para obtener datos de un dispositivo)
+  - POST /eventos (para registrar eventos de monitoreo)
+- Controladores: DispositivoController, EventoMonitoreoController (gestionan las operaciones relacionadas con dispositivos y eventos de monitoreo).
+- Event Handlers: DeviceDataReceivedEventHandler (maneja la recepción de datos de dispositivos).
+
+### 5.5.3 Application Layer
+- Servicios de Aplicación:
+- DispositivoService (gestiona la configuración y el estado de los dispositivos IoT).
+- MonitoreoService (analiza los datos recibidos de los dispositivos).
+- Comandos: RegisterDeviceCommand, LogEventCommand.
+- Eventos de Dominio: DeviceRegistered, MonitoringEventLogged.
+
+### 5.5.4 Infrastructure Layer
+- Implementación de Repositorios: DispositivoRepositoryImpl, EventoMonitoreoRepositoryImpl (implementaciones con acceso a base de datos).
+- Integraciones: Integraciones con plataformas de IoT para recibir datos de sensores.
+- Proveedores de Datos: Almacenes de datos para la persistencia de información de dispositivos y eventos.
+
+### 5.5.6 Bounded Context Software Architecture Component Level Diagrams
+<img src="./Resources/images/5.5.6 Bounded Context Software Architecture Component Level Diagrams.PNG">
+
+### 5.5.7 Bounded Context Software Architecture Code Level Diagrams
+#### 5.5.7.1 Bounded Context Domain Layer Class Diagrams
+<img src="./Resources/images/5.5.7.1 Bounded Context Domain Layer Class Diagrams.PNG">
+
+#### 5.5.7.2 Bounded Context Database Design Diagram
+<img src="./Resources/images/5.5.7.2 Bounded Context Database Design Diagram.PNG">
