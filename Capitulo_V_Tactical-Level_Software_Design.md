@@ -118,3 +118,39 @@ Este diagrama incluiría la conexión entre controladores, servicios de aplicaci
 #### 5.3.7.2 Bounded Context Database Design Diagram
 <img src="./Resources/images/5.3.7.2 Bounded Context Database Design Diagram.PNG">
 
+## 5.4 Bounded Context Reservation
+### 5.4.1 Domain Layer
+- Entidades Principales: Reservación, Política de Reservación.
+- Objetos de Valor: Fecha de Reservación, Detalles de la Reservación.
+- Servicios de Dominio: Gestión de Reservaciones.
+- Repositorios: Repositorio de Reservaciones.
+
+### 5.4.2 Interface Layer
+- APIs:
+  - POST /reservaciones (para crear nuevas reservaciones)
+  - GET /reservaciones/{id} (para obtener detalles de una reservación)
+  - PUT /reservaciones/{id} (para actualizar una reservación)
+  - DELETE /reservaciones/{id} (para cancelar una reservación)
+- Controladores: ReservacionController (gestiona las operaciones relacionadas con reservaciones).
+- Event Handlers: ReservationUpdatedEventHandler (maneja eventos de actualización de reservaciones).
+
+### 5.4.3 Application Layer
+- Servicios de Aplicación:
+  - ReservacionService (gestiona la creación, actualización, consulta y cancelación de reservaciones).
+- Comandos: CreateReservationCommand, UpdateReservationCommand, DeleteReservationCommand.
+- Eventos de Dominio: ReservationCreated, ReservationUpdated, ReservationCancelled
+
+### 5.4.4 Infrastructure Layer
+- Implementación de Repositorios: ReservacionRepositoryImpl (implementación con acceso a base de datos).
+- Integraciones: Integraciones con sistemas de calendario o plataformas de gestión de eventos para sincronizar reservaciones.
+- Proveedores de Datos: Proveedores para almacenamiento de información de reservación
+
+### 5.4.6 Bounded Context Software Architecture Component Level Diagrams
+<img src="./Resources/images/5.4.6 Bounded Context Software Architecture Component Level Diagrams.PNG">
+
+### 5.4.7 Bounded Context Software Architecture Code Level Diagrams
+#### 5.4.7.1 Bounded Context Domain Layer Class Diagrams
+<img src="./Resources/images/5.4.7.1 Bounded Context Domain Layer Class Diagrams.PNG">
+
+#### 5.4.7.2 Bounded Context Database Design Diagram
+<img src="./Resources/images/5.4.7.2 Bounded Context Database Design Diagram.PNG">
