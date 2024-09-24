@@ -40,9 +40,44 @@ Este diagrama incluiría la conexión entre controladores, servicios de aplicaci
 
 ### 5.1.7 Bounded Context Software Architecture Code Level Diagrams
 #### 5.1.7.1 Bounded Context Domain Layer Class Diagrams
-
 <img src="./Resources/images/5.1.7.1 Bounded Context Domain Layer Class Diagrams.PNG">
 
 #### 5.1.7.2 Bounded Context Database Design Diagram
-
 <img src="./Resources/images/5.1.7.2 Bounded Context Database Design Diagram.PNG">
+
+## 5.2 Bounded Context Agency
+
+### 5.2.1 Domain Layer
+- Entidades Principales: Agencia, Perfil de Agencia.
+- Objetos de Valor: Dirección, Contacto.
+- Servicios de Dominio: Gestión de Agencias.
+- Repositorios: Repositorio de Agencias.
+
+### 5.2.2 Interface Layer
+- APIs:
+  - POST /agencias (para crear nuevas agencias)
+  - GET /agencias/{id} (para obtener detalles de una agencia)
+  - PUT /agencias/{id} (para actualizar una agencia)
+- Controladores: AgenciaController (gestiona las operaciones relacionadas con agencias).
+- Event Handlers: AgencyProfileUpdatedEventHandler (maneja eventos de actualización de perfiles).
+
+### 5.2.3 Application Layer
+- Servicios de Aplicación:
+  - AgenciaService (gestiona la creación, actualización y visualización de agencias).
+- Comandos: CreateAgencyCommand, UpdateAgencyCommand.
+- Eventos de Dominio: AgencyCreated, AgencyUpdated.
+
+### 5.2.4 Infrastructure Layer
+- Implementación de Repositorios: AgenciaRepositoryImpl (implementación con acceso a base de datos).
+- Integraciones: Servicios de terceros para validación de datos de contacto o ubicación.
+- Proveedores de Datos: Proveedores para almacenamiento de información de agencia.
+
+### 5.2.6 Bounded Context Software Architecture Component Level Diagrams
+<img src="./Resources/images/5.2.6 Bounded Context Software Architecture Component Level Diagrams.PNG">
+
+### 5.2.7 Bounded Context Software Architecture Code Level Diagrams
+#### 5.2.7.1 Bounded Context Domain Layer Class Diagrams
+<img src="./Resources/images/5.2.7.1 Bounded Context Domain Layer Class Diagrams.PNG">
+
+#### 5.2.7.2 Bounded Context Database Design Diagram
+<img src="./Resources/images/5.2.7.2 Bounded Context Database Design Diagram.PNG">
