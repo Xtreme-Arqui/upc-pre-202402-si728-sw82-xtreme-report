@@ -191,3 +191,41 @@ Este diagrama incluiría la conexión entre controladores, servicios de aplicaci
 
 #### 5.5.7.2 Bounded Context Database Design Diagram
 <img src="./Resources/images/5.5.7.2 Bounded Context Database Design Diagram.PNG">
+
+## 5.6 Bounded Context Subscription
+### 5.6.1 Domain Layer
+- Entidades Principales: Suscripción, Plan de Suscripción.
+- Objetos de Valor: Fecha de Suscripción, Precio.
+- Servicios de Dominio: Gestión de Suscripciones.
+- Repositorios: Repositorio de Suscripciones.
+
+### 5.6.2 Interface Layer
+- APIs:
+  - POST /suscripciones (para crear nuevas suscripciones)
+  - GET /suscripciones/{id} (para obtener detalles de una suscripción)
+  - PUT /suscripciones/{id} (para actualizar una suscripción)
+  - DELETE /suscripciones/{id} (para cancelar una suscripción)
+- Controladores: SuscripcionController (gestiona las operaciones relacionadas con suscripciones).
+- Event Handlers: SubscriptionUpdatedEventHandler (maneja eventos de actualización de suscripciones).
+
+### 5.6.3 Application Layer
+- Servicios de Aplicación:
+- SuscripcionService (gestiona la creación, actualización y cancelación de suscripciones).
+- PlanService (gestiona la lógica de negocio de los planes de suscripción).
+- Comandos: CreateSubscriptionCommand, UpdateSubscriptionCommand, CancelSubscriptionCommand.
+- Eventos de Dominio: SubscriptionCreated, SubscriptionUpdated, SubscriptionCancelled
+
+### 5.6.4 Infrastructure Layer
+- Implementación de Repositorios: SuscripcionRepositoryImpl, PlanRepositoryImpl (implementaciones con acceso a base de datos).
+- Integraciones: Integraciones con plataformas de pago para gestionar pagos recurrentes y renovaciones.
+- Proveedores de Datos: Almacenes de datos para la persistencia de información de suscripciones y planes.
+
+### 5.6.6 Bounded Context Software Architecture Component Level Diagrams
+<img src="./Resources/images/5.6.6 Bounded Context Software Architecture Component Level Diagrams.PNG">
+
+### 5.6.7 Bounded Context Software Architecture Code Level Diagrams
+#### 5.6.7.1 Bounded Context Domain Layer Class Diagrams
+<img src="./Resources/images/5.6.7.1 Bounded Context Domain Layer Class Diagrams.PNG">
+
+#### 5.6.7.2 Bounded Context Database Design Diagram
+<img src="./Resources/images/5.6.7.2 Bounded Context Database Design Diagram.PNG">
