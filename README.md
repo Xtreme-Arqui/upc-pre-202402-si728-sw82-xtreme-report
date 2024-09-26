@@ -187,20 +187,24 @@ Nuestro enfoque garantiza que tanto las agencias como los aventureros puedan dis
 + Soy un estudiante del quinto año de la carrera de Ingeniería de Software y practicante de Analista de datos. Me considero fan de la tecnología y el aprendizaje continuo, estoy siempre buscando aportar de manera positiva y significativa al desarrollo y mejora constante de las actividades propuestas.
 
 #### Emerson Gerardo Quispe Villegas
-![emerson](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/362ad089-35e4-430b-a21d-880857bdf76d)
+<div style="width: 200; height: auto;" > 
+<img src="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/362ad089-35e4-430b-a21d-880857bdf76d"> </div>
 
 + Soy estudiante de la carrera de ingeniería de software. Me gusta mucho la música y casi siempre realizo mis actividades escuchando canciones. Me gusta trabajar en equipo, ya que todos los integrantes podemos proponer ideas y corregir errores del otro para lograr nuestro objetivo. Una de mis cualidades es ser responsable, paciente, puntual y tener compromiso con los trabajos que me designen.
 
 #### Piero Stefano Márquez
-
+<div style="width: 200; height: auto;" > 
+<img src=""> </div>
 +
 
 #### Franco Marcelo Manuel Surco Reyes
-
+<div style="width: 200; height: auto;" > 
+<img src=""> </div>
 +
 
 #### Valencia Rivera Fiorella Viviana
-<img src="https://media.discordapp.net/attachments/941735785529487416/1282518864298639360/WhatsApp_Image_2024-09-08_at_8.33.32_PM.jpeg?ex=66dfa645&is=66de54c5&hm=fe5828b7aad9cc986b88f70f38f57b54fdb4fdffff5c46553448cd711e12bb92&=&format=webp&width=883&height=662">
+<div style="width: 200; height: auto;" > 
+<img src="https://media.discordapp.net/attachments/941735785529487416/1282518864298639360/WhatsApp_Image_2024-09-08_at_8.33.32_PM.jpeg?ex=66dfa645&is=66de54c5&hm=fe5828b7aad9cc986b88f70f38f57b54fdb4fdffff5c46553448cd711e12bb92&=&format=webp&width=883&height=662">  </div>
 
 + Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Mi enfoque se centra en el desarrollo backend y la ciencia de datos. Poseo conocimiento en lenguajes de programación como Java, Python y C#. Además, tengo un interés particular en el campo de la ciberseguridad. 
 
@@ -1458,8 +1462,10 @@ Este diagrama incluiría la conexión entre controladores, servicios de aplicaci
 
 -Aplicacion mobil para turistas
     En la aplicacion movil las personas podran sincronizar el modelo de las botas que esten usando con su celular para que puedan ver los datos que estan registrando en tiempo real como la cantidad de pasos, la distancia recorrida y su frecuencia cardiaca. Ademas, podran ver y editar su informacion personal e informacion sobre su cuenta.
+    <div style="width: 50%; height: auto;" >
     <img src="./Resources/images/wireframes/Home app.png" > <img src="./Resources/images/wireframes/Profile app.png" > 
     <img src="./Resources/images/wireframes/Account app.png" > <img src="./Resources/images/wireframes/Devices app.png" > 
+     </div> 
 
 ### 6.4.2. Applications Wireflow Diagrams
 - Sector Agencia
