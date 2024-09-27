@@ -14,25 +14,31 @@ Nuestro enfoque garantiza que tanto las agencias como los aventureros puedan dis
 ### 1.1.2. Perfiles de integrantes del equipo
 
 #### Arnol Omar Caceres Bueno  
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQFJ8r8LSG4uNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705546240231?e=1731542400&v=beta&t=DYFNrkea4REzN-dl6OodZBBbpo25V5TOVcchaNWf6hk">
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQFJ8r8LSG4uNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705546240231?e=1731542400&v=beta&t=DYFNrkea4REzN-dl6OodZBBbpo25V5TOVcchaNWf6hk" style="width: 200px; height: auto;" alt="Arnol">
 
 + Soy un estudiante del quinto año de la carrera de Ingeniería de Software y practicante de Analista de datos. Me considero fan de la tecnología y el aprendizaje continuo, estoy siempre buscando aportar de manera positiva y significativa al desarrollo y mejora constante de las actividades propuestas.
 
 #### Emerson Gerardo Quispe Villegas
-![emerson](https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/362ad089-35e4-430b-a21d-880857bdf76d)
+<img src="https://github.com/XForce-IOt/upc-pre-202401-si572-WS71-XForce-report/assets/64367045/362ad089-35e4-430b-a21d-880857bdf76d" alt="emerson" width="200">
+
 
 + Soy estudiante de la carrera de ingeniería de software. Me gusta mucho la música y casi siempre realizo mis actividades escuchando canciones. Me gusta trabajar en equipo, ya que todos los integrantes podemos proponer ideas y corregir errores del otro para lograr nuestro objetivo. Una de mis cualidades es ser responsable, paciente, puntual y tener compromiso con los trabajos que me designen.
 
 #### Piero Stefano Márquez
 
-+
+<img src="resources/images/Piero.jpeg" style="width: 200px; height: auto;" alt="Piero">
+
++ Soy estudiante de 8to ciclo de la carrera de Ingeniería de Software en la UPC.  Tengo conocimientos básicos como Full Stack manejando diversos frameworks como Angular, React, Spring Boot y Node.js, me gustaría poder dedicarme al desarrollo web una vez egrese y más adelante estudiar cloud computing.
+
 
 #### Franco Marcelo Manuel Surco Reyes
 
-+
+<img src="resources/images/Franco.PNG" style="width: 200px; height: auto;" alt="Franco">
+
++ Soy estudiante de la carrera de ingeniería de Software en la universidad Peruana de Ciencias Aplicadas, elegí esta carrera por mi pasión por la programación e interés por la tecnología. Me considero una persona responsable y colaborativa, por lo que apoyaré al grupo en lo que se necesite. Además, tengo conocimientos de programación en C++, Python, HTML, CSS, JavaScript y modelado de base de datos en SQL Server.  
 
 #### Valencia Rivera Fiorella Viviana
-<img src="https://media.discordapp.net/attachments/941735785529487416/1282518864298639360/WhatsApp_Image_2024-09-08_at_8.33.32_PM.jpeg?ex=66dfa645&is=66de54c5&hm=fe5828b7aad9cc986b88f70f38f57b54fdb4fdffff5c46553448cd711e12bb92&=&format=webp&width=883&height=662">
+<img src="resources/images/Fiorella.PNG" style="width: 200px; height: auto;" alt="Fiorella">
 
 + Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Mi enfoque se centra en el desarrollo backend y la ciencia de datos. Poseo conocimiento en lenguajes de programación como Java, Python y C#. Además, tengo un interés particular en el campo de la ciberseguridad. 
 
