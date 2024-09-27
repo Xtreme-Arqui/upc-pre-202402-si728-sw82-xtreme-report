@@ -1011,10 +1011,36 @@ De acuerdo a las user stories seleccionadas, se seleccionaron los atributos de c
 
 
 ### 4.1.3. Architectural Drivers Backlog.
+El Architectural Drivers Backlog ha sido creado a partir de un proceso iterativo en el Quality Attribute Workshop, con el objetivo de identificar y priorizar los factores clave que influyen en el diseño arquitectónico del sistema. Este backlog incluye tanto los drivers funcionales como los de atributos de calidad y las restricciones que afectan al diseño y la complejidad técnica del proyecto.
 
+| Driver ID | Título de Driver            | Descripción                                                                 | Importancia para Stakeholders | Impacto en Architecture Technical Complexity |
+|-----------|-----------------------------|-----------------------------------------------------------------------------|-------------------------------|--------------------------------------------|
+| FD01      | Protección de datos          | La aplicación debe proteger la información personal y financiera contra el acceso no autorizado. | High                          | High                                       |
+| FD02      | Acceso a servicios           | Los turistas deben poder ver los detalles de los servicios ofrecidos por las agencias. | High                          | Medium                                     |
+| FD03      | Monitoreo de clientes        | Las agencias necesitan monitorear el estado de los servicios ofrecidos a sus clientes en tiempo real. | High                          | High                                       |
+| QA01      | Seguridad                    | La información personal y financiera debe ser cifrada y transmitida de manera segura. | High                          | High                                       |
+| QA02      | Disponibilidad               | La aplicación debe mostrar los detalles del servicio en menos de 2 segundos. | High                          | Medium                                     |
+| QA03      | Rendimiento                  | El estado del servicio debe actualizarse y mostrarse en menos de 1 segundo. | High                          | High                                       |
+| C01       | FrontEnd Technologies        | Restricción a los frameworks Angular y Vue.js para el desarrollo del FrontEnd. | High                          | Medium                                     |
+| C02       | FrontEnd UI Component        | Uso exclusivo de librerías Angular Material y PrimeNG para los componentes de la UI. | High                          | Medium                                     |
+| C03       | BackEnd Technologies         | Restricción a SpringBoot Java y ASP.NET CORE C# para el desarrollo del BackEnd. | High                          | Medium                                     |
+| C04       | Tiempo de Desarrollo         | Límite de 4 meses para completar el desarrollo y la implementación de la plataforma. | High                          | High                                       |
+| C05       | Base de Datos Relacional     | Uso exclusivo de bases de datos relacionales, como MySQL.                   | Medium                        | Medium                                     |
+| C06       | Uso de GitHub como Repositorio | Uso de GitHub Organization para el control de versiones y almacenamiento del código. | High                          | Low                                        |
 
 
 ### 4.1.4. Architectural Design Decisions.
+
+| Driver ID | Título de Driver            | Pattern 1                  | Pro                                        | Con                                         | Pattern 2                        | Pro                               | Con                                       | Pattern 3                      |
+|-----------|-----------------------------|----------------------------|--------------------------------------------|---------------------------------------------|-----------------------------------|-----------------------------------|-------------------------------------------|--------------------------------|
+| FD01      | Protección de datos          | Cifrado AES                | Alta seguridad, estándar reconocido         | Complejidad de implementación               | Control de acceso basado en roles | Gestión eficiente de permisos     | Complejidad adicional en el manejo de roles | HTTPS                          |
+| QA01      | Seguridad                    | Cifrado de datos y HTTPS   | Protección robusta de la información        | Puede impactar el rendimiento                | Autenticación multifactor         | Añade una capa adicional de seguridad | Puede ser percibido como intrusivo por los usuarios | Políticas de seguridad        |
+| QA02      | Disponibilidad               | Cacheo de datos            | Mejora la velocidad de respuesta            | Puede introducir complejidad en la coherencia de datos | Balanceo de carga               | Distribución equitativa del tráfico | Puede requerir infraestructura adicional | Optimización de consultas     |
+| C01       | FrontEnd Technologies        | Angular                    | Amplia comunidad, buena documentación       | Curva de aprendizaje para nuevos usuarios    | Vue.js                            | Ligero y fácil de aprender         | Menor soporte comparado con Angular        | -                              |
+| C02       | FrontEnd UI Component        | Angular Material           | Componentes bien diseñados y documentados   | Limitado a Angular                           | PrimeNG                           | Componentes ricos y personalizables | Menos conocido comparado con Angular Material | -                              |
+| C03       | BackEnd Technologies         | SpringBoot                 | Amplio soporte, robusto y escalable         | Requiere conocimientos en Java               | ASP.NET Core                      | Integración fluida con tecnologías Microsoft | Menos popular fuera del ecosistema Microsoft | -                              |
+| C04       | Tiempo de Desarrollo         | Scrum                      | Adaptación flexible a cambios               | Puede requerir gestión rigurosa              | Kanban                            | Mejora la visualización del flujo de trabajo | Menos estructurado que Scrum              | -                              |
+
 
 ### 4.1.5. Quality Attribute Scenario Refinements.
 
