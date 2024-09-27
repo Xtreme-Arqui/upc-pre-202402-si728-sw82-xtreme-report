@@ -165,6 +165,90 @@ Profesor: Rojas Malasquez, Royer Edelwer
 - [Conclusiones]()
 
 
+# Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - **Student Outcome 3**.  
+**Criterio**: Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+<table border="1">
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+
+Valencia Rivera Fiorella   
+TB1:
+Se están examinando detenidamente las entrevistas con los usuarios, así como   sus inquietudes y comentarios relacionados con el proyecto.  
+
+Emerson Gerardo Quispe Villegas   
+TB1:
+Ejecución de entrevistas a los usuarios para poder obtener una información   sobre sus historias para luego realizar un análisis relevante sobre sus  problemas y necesidades.  
+TP:
+Evaluamos las principales historias de usuario y en base a eso, se realizo   las diferentes vistas para el sector de agencias y el sector de turistas.  Ademas se realizó el wireflow diagram para las aplicaciones web y movil.
+
+Franco Marcelo Manuel Surco Reyes   
+TB1:
+Se llevó a cabo una minuciosa evaluación de las entrevistas y las necesidades    expresadas por los usuarios con el fin de identificar requerimientos   esenciales que serán implementados en el proyecto.   
+TP:
+
+Arnol Omar Caceres Bueno    
+TB1:
+Se hicieron entrevistas con la finalidad de tener una mayor comprensión de   las necesidades del usuario.   
+TP:
+
+Piero Stefano Márquez    
+TB1: 
+Se llevaron a cabo análisis de entrevistas de cada segmento objetivo para    obtener una comprensión completa de las necesidades del usuario. Esto    permitió abordar y resolver esas necesidades.   
+TP:
+</td>
+    <td>
+TB1:  Es fundamental la capacidad de comunicar de manera oral las ideas resultados al público, ya que esto facilita que puedan brindar sretroalimentación de manera directa acerca de la aplicación.
+
+TP:
+</td>
+  </tr>
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+    <td>
+
+Valencia Rivera Fiorella   
+TB1:
+Mediante los user Flow diagrams,se mostró al usuario el flujo que va a tener la aplicación.
+
+Emerson Gerardo Quispe Villegas    
+TB1:   
+Al salir a entrevistar a las personas para conocer mejor el publico objetivo, se obtuvieron resultados que ayudaron en el analisis de requerimientos para el desarrollo de nuestro proyecto.   
+TP: 
+Al realizar los primeros wireframes que serviran de guia para el diseño de nuestras aplicaciones se obtuvo una vision más clara para su produccion, tambien se desarrollaron los primeros wireflows que ayudaron con la navegacion de las aplicaciones.
+
+
+Arnol Omar Caceres Bueno    
+TB1:
+Mediante los user persona se creó un usuario imaginario con las características de todos los entrevistados según cada segmento.    
+TP:
+
+
+Piero Stefano Márquez	
+TB1:    
+En esta entrega analizamos todo lo relacionado al contexto del proyecto, todo aquello que involucra a los posibles competidores, análisis del mercado en los diferentes segmentos objetivos.    
+TP:
+
+Franco Marcelo Manuel Surco Reyes	 
+TB1:    
+En nuestra primera entrega realizamos la introducción al startup, el análisis Lean UX Process para analizar y reconocer las necesidades del usuario.    
+TP:
+</td>
+    <td>
+
+TB1: Al comunicar las ideas y resultados de forma escrita nos permite que muchas personas puedan visualizar los mismos en cualquier momento y lugar.    
+TP:
+    </td>
+  </tr>
+  
+</table>
 
 # Capítulo I: Introducción
 
@@ -1463,9 +1547,10 @@ Este diagrama incluiría la conexión entre controladores, servicios de aplicaci
 -Aplicacion mobil para turistas
     En la aplicacion movil las personas podran sincronizar el modelo de las botas que esten usando con su celular para que puedan ver los datos que estan registrando en tiempo real como la cantidad de pasos, la distancia recorrida y su frecuencia cardiaca. Ademas, podran ver y editar su informacion personal e informacion sobre su cuenta.
     <div style="width: 50%; height: auto;" >
-    <img src="./Resources/images/wireframes/Home app.png" > <img src="./Resources/images/wireframes/Profile app.png" > 
-    <img src="./Resources/images/wireframes/Account app.png" > <img src="./Resources/images/wireframes/Devices app.png" > 
-     </div> 
+    <img src="./Resources/images/wireframes/Home app.png" > <img src="./Resources/images/wireframes/Profile app.png" > </div> 
+    <div style="width: 50%; height: auto;" >
+    <img src="./Resources/images/wireframes/Account app.png" > <img src="./Resources/images/wireframes/Devices app.png" > </div> 
+     
 
 ### 6.4.2. Applications Wireflow Diagrams
 - Sector Agencia
