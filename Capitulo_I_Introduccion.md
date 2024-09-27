@@ -26,19 +26,19 @@ Nuestro enfoque garantiza que tanto las agencias como los aventureros puedan dis
 
 #### Piero Stefano Márquez
 
-<img src="resources/images/Piero.jpeg" style="width: 200px; height: auto;" alt="Piero">
+<img src="Resources/images/Piero.jpeg" style="width: 200px; height: auto;" alt="Piero">
 
 + Soy estudiante de 8to ciclo de la carrera de Ingeniería de Software en la UPC.  Tengo conocimientos básicos como Full Stack manejando diversos frameworks como Angular, React, Spring Boot y Node.js, me gustaría poder dedicarme al desarrollo web una vez egrese y más adelante estudiar cloud computing.
 
 
 #### Franco Marcelo Manuel Surco Reyes
 
-<img src="resources/images/Franco.PNG" style="width: 200px; height: auto;" alt="Franco">
+<img src="Resources/images/Franco.PNG" style="width: 200px; height: auto;" alt="Franco">
 
 + Soy estudiante de la carrera de ingeniería de Software en la universidad Peruana de Ciencias Aplicadas, elegí esta carrera por mi pasión por la programación e interés por la tecnología. Me considero una persona responsable y colaborativa, por lo que apoyaré al grupo en lo que se necesite. Además, tengo conocimientos de programación en C++, Python, HTML, CSS, JavaScript y modelado de base de datos en SQL Server.  
 
 #### Valencia Rivera Fiorella Viviana
-<img src="resources/images/Fiorella.PNG" style="width: 200px; height: auto;" alt="Fiorella">
+<img src="Resources/images/Fiorella.PNG" style="width: 200px; height: auto;" alt="Fiorella">
 
 + Estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Mi enfoque se centra en el desarrollo backend y la ciencia de datos. Poseo conocimiento en lenguajes de programación como Java, Python y C#. Además, tengo un interés particular en el campo de la ciberseguridad. 
 
