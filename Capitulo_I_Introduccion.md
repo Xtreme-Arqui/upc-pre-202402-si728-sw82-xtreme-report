@@ -140,7 +140,6 @@ La interfaz de usuario de la aplicación web y móvil debe ser sencilla de compr
 - Modelos de suscripción: Ofrecer múltiples niveles de suscripción con beneficios adicionales, como un plan básico para la publicación de sus agencias hasta planes personalizados con un logo de la agencia en las botas.
 - Programa de embajadores y campañas de marketing: Implementar un programa de embajadores de marca que incluya influencers reconocidos que realizan deportes extremos, junto con campañas de marketing en redes sociales y medios tradicionales que destaquen las características únicas del producto y servicio, consolidando la percepción de liderazgo y diferenciación en el mercado.
 
-
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Creemos que** el incremento en la satisfacción del cliente **se logrará si** la agencia de alpinismo **obtiene** mayor tranquilidad y confianza **con** la función de monitoreo en tiempo real.
 
