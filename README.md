@@ -1586,47 +1586,70 @@ En esta sección, se define el espaciado de los componentes de la aplicación pa
         - Padding: 30px
   
 - Dimensions
+
 - Agencia
+
 Para  las agencias adoptamos un tono claro y profesional. Nos enfocamos en proporcionar información detallada y precisa. Presentamos datos y ejemplos concretos que demuestran la eficiencia y los beneficios económicos de nuestra propuesta. Queremos que estas agencias vean en nosotros un socio confiable que les ayudará a mejorar su operativa y a ofrecer un mejor servicio a sus clientes.
 
 - Aventurero
+
 Para los usuarios aventureros, adoptamos un tono vibrante y emocionante. Queremos inspirar a estos viajeros a descubrir nuevas experiencias y a vivir aventuras inolvidables. Utilizamos un lenguaje sencillo y atractivo que resalta las oportunidades de exploración y diversión que ofrecemos. Nos esforzamos por crear una conexión emocional, transmitiendo la emoción y la pasión por los viajes y la aventura.
 
 ### 6.1.2. Web, Mobile & Devices Style Guidelines
 -  Web Style Guidelines
-        - Web Responsive
+
+   - Web Responsive
+ 
 Se establece un diseño responsivo para que la aplicación pueda adaptarse a varias pantallas para garantizar una experiencia óptima para el usuario independientemente del dispositivo que utilice. La adaptabilidad del diseño incluye ajustes automáticos en el tamaño de los elementos, la disposición del contenido y la navegación, asegurando que la interfaz sea siempre accesible y funcional.
 Navbar: Se utiliza una navbar para que el usuario pueda navegar por la aplicación de manera intuitiva
-        -   Mobile Style Guidelines
-Accesibilidad: Se debe asegurar que la aplicación pueda estar disponible para todos los usuarios asegurando su funcionamiento la mayoría de los dispositivos móviles.
+
+        
+- Mobile Style Guidelines
+
+- Accesibilidad
+
+Se debe asegurar que la aplicación pueda estar disponible para todos los usuarios asegurando su funcionamiento la mayoría de los dispositivos móviles.
 Navbar: En dispositivos móviles, la navbar se convierte en un menú desplegable para ahorrar espacio y mantener la interfaz limpia y ordenada.
 
 ## 6.2. Information Architecture
 ### 6.2.2. Labeling Systems
 - Home
+
 En esta sección, la agencia puede visualizar todas las publicaciones añadidas. Esta vista centralizada permite a los usuarios acceder rápidamente a las últimas actualizaciones y contenidos relevantes.
+
 - Monitoring
+
 En esta sección, la agencia puede visualizar el estado y el recorrido de los usuarios. Esta funcionalidad es crucial para el seguimiento y análisis del comportamiento del usuario, permitiendo a la agencia tomar decisiones informadas basadas en datos en tiempo real.
+
 - Profile
+
 En esta sección, la agencia puede visualizar y actualizar su perfil. Aquí, los usuarios pueden modificar su información personal, ajustar configuraciones y gestionar sus preferencias, asegurando que su perfil esté siempre actualizado y refleje sus necesidades actuales.
+
 - Services
+
 En esta sección, el usuario puede visualizar y elegir los servicios publicados por las agencias. Esta área está diseñada para ser intuitiva y fácil de navegar, permitiendo a los usuarios explorar y seleccionar los servicios que mejor se adapten a sus necesidades.
 
 ### 6.2.3. Searching Systems
 - Barra de búsqueda
+
 En esta sección, el usuario puede introducir el nombre del servicio que desea encontrar. La barra de búsqueda está diseñada para ser intuitiva y eficiente, permitiendo a los usuarios localizar rápidamente los servicios específicos que necesitan.
 ### 6.2.4. SEO Tags and Meta Tags
 - Alt Text
+
 Utiliza la etiqueta alt para describir las imágenes en las tarjetas de publicaciones.Esto ayuda a los motores de búsqueda a entender el contenido de las imágenes.
 - Aria-Labels
+
 Utiliza aria-label para describir la función de los botones. Para mejorar la accesibilidad de los usuarios que utilizan lectores de pantalla.
 - Title
+
 Añade la etiqueta title a los enlaces de navegación para proporcionar información adicional cuando el usuario pasa el cursor sobre ellos. 
 - Header Tags
+
 Utiliza etiquetas de encabezado adecuadas para las secciones principales.
 
 ### 6.2.5. Navigation Systems
-- Menú desplegable 
+- Menú desplegable
+
 Será el principal sistema de búsqueda, a través del menú desplegable se accederá a las principales funciones de la aplicación, esta se mostrará en todo momento con el usuario, de tal manera que sepa donde se encuentra en cualquier momento.
 
 ## 6.3. Landing Page UI Design
