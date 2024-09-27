@@ -181,33 +181,42 @@ El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - **S
 
 Valencia Rivera Fiorella   
 TB1:
-Se están examinando detenidamente las entrevistas con los usuarios, así como   sus inquietudes y comentarios relacionados con el proyecto.  
+Se están examinando detenidamente las entrevistas con los usuarios, así como   sus inquietudes y comentarios relacionados con el proyecto.
+
+TP1:
+Me encargué de diseñar el Domain Layer y el Application Layer, asegurando una estructura sólida y clara para la lógica del sistema, facilitando la futura implementación de funcionalidades.  
 
 Emerson Gerardo Quispe Villegas   
 TB1:
 Ejecución de entrevistas a los usuarios para poder obtener una información   sobre sus historias para luego realizar un análisis relevante sobre sus  problemas y necesidades.  
+
 TP:
 Evaluamos las principales historias de usuario y en base a eso, se realizo   las diferentes vistas para el sector de agencias y el sector de turistas.  Ademas se realizó el wireflow diagram para las aplicaciones web y movil.
 
 Franco Marcelo Manuel Surco Reyes   
 TB1:
-Se llevó a cabo una minuciosa evaluación de las entrevistas y las necesidades    expresadas por los usuarios con el fin de identificar requerimientos   esenciales que serán implementados en el proyecto.   
+Se llevó a cabo una minuciosa evaluación de las entrevistas y las necesidades    expresadas por los usuarios con el fin de identificar requerimientos   esenciales que serán implementados en el proyecto.  
+
 TP:
+Fui responsable del diseño de la Infraestructura y los diagramas de base de datos, asegurando que la interacción entre la lógica del sistema y el almacenamiento de datos sea eficiente y fluida
 
 Arnol Omar Caceres Bueno    
 TB1:
 Se hicieron entrevistas con la finalidad de tener una mayor comprensión de   las necesidades del usuario.   
+
 TP:
+Diseñé los wireframes y mock-ups de la landing page, enfocándome en crear una primera impresión que sea atractiva y fácil de usar para los visitantes.
 
 Piero Stefano Márquez    
 TB1: 
 Se llevaron a cabo análisis de entrevistas de cada segmento objetivo para    obtener una comprensión completa de las necesidades del usuario. Esto    permitió abordar y resolver esas necesidades.   
-TP:
-</td>
-    <td>
-TB1:  Es fundamental la capacidad de comunicar de manera oral las ideas resultados al público, ya que esto facilita que puedan brindar sretroalimentación de manera directa acerca de la aplicación.
 
 TP:
+Me centré en la arquitectura de la información y los sistemas de navegación, optimizando la usabilidad y visibilidad del sistema, además de asegurar una mejor experiencia para los usuarios.
+</td>
+    <td>
+Es fundamental la capacidad de comunicar de manera oral las ideas resultados al público, ya que esto facilita que puedan brindar sretroalimentación de manera directa acerca de la aplicación.
+
 </td>
   </tr>
   <tr>
@@ -218,33 +227,42 @@ Valencia Rivera Fiorella
 TB1:
 Mediante los user Flow diagrams,se mostró al usuario el flujo que va a tener la aplicación.
 
+TP:
+Me encargué de diseñar las capas Domain y Application, asegurando una base sólida para la lógica de negocio y la escalabilidad del sistema.
+
 Emerson Gerardo Quispe Villegas    
 TB1:   
 Al salir a entrevistar a las personas para conocer mejor el publico objetivo, se obtuvieron resultados que ayudaron en el analisis de requerimientos para el desarrollo de nuestro proyecto.   
+
 TP: 
 Al realizar los primeros wireframes que serviran de guia para el diseño de nuestras aplicaciones se obtuvo una vision más clara para su produccion, tambien se desarrollaron los primeros wireflows que ayudaron con la navegacion de las aplicaciones.
 
 
 Arnol Omar Caceres Bueno    
 TB1:
-Mediante los user persona se creó un usuario imaginario con las características de todos los entrevistados según cada segmento.    
+Mediante los user persona se creó un usuario imaginario con las características de todos los entrevistados según cada segmento.   
+ 
 TP:
-
+Me encargué de crear los wireframes y mock-ups de la landing page, asegurándome de que el diseño sea atractivo y fácil de usar para los visitantes desde el primer momento.
 
 Piero Stefano Márquez	
 TB1:    
-En esta entrega analizamos todo lo relacionado al contexto del proyecto, todo aquello que involucra a los posibles competidores, análisis del mercado en los diferentes segmentos objetivos.    
+En esta entrega analizamos todo lo relacionado al contexto del proyecto, todo aquello que involucra a los posibles competidores, análisis del mercado en los diferentes segmentos objetivos.  
+
 TP:
+Mi contribución se centró en la arquitectura de la información y los sistemas de navegación, mejorando la usabilidad del sistema y optimizando su visibilidad a través de SEO y meta etiquetas.
 
 Franco Marcelo Manuel Surco Reyes	 
 TB1:    
-En nuestra primera entrega realizamos la introducción al startup, el análisis Lean UX Process para analizar y reconocer las necesidades del usuario.    
+En nuestra primera entrega realizamos la introducción al startup, el análisis Lean UX Process para analizar y reconocer las necesidades del usuario.
+
 TP:
+Fui responsable del diseño de la capa de infraestructura y los diagramas de base de datos, garantizando que la interacción entre la lógica de negocio y el almacenamiento de datos sea eficiente y confiable.
+
 </td>
     <td>
 
-TB1: Al comunicar las ideas y resultados de forma escrita nos permite que muchas personas puedan visualizar los mismos en cualquier momento y lugar.    
-TP:
+Al comunicar las ideas y resultados de forma escrita nos permite que muchas personas puedan visualizar los mismos en cualquier momento y lugar.    
     </td>
   </tr>
   
