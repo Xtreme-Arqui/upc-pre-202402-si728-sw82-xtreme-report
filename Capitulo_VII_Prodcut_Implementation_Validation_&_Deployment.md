@@ -80,13 +80,13 @@ En esta sección, como equipo, especificamos y describimos los productos de soft
 
 14. **GitHub Pages**
 
-    - **Propósito:** 
-    - **Ruta:** 
+    - **Propósito:** Desplegar la landing Page.
+    - **Ruta:** https://pages.github.com/
 
-15. **Vercel**
+15. **Netify**
 
-    - **Propósito:** 
-    - **Ruta:** 
+    - **Propósito:** Desplegar la Aplicacion Web
+    - **Ruta:** https://www.netlify.com
 
 **Software Documentation:**
 
