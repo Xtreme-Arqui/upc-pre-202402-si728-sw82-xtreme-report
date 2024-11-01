@@ -383,6 +383,40 @@ Estas convenciones y guías de estilo nos ayudarán a mantener un código limpio
 #### 7.2.1.8. Team Collaboration Insights during Sprint.
 ## 7.3. Validation Interviews.
 ### 7.3.1. Diseño de Entrevistas
+# Entrevista de Validación para la Aplicación de Turismo de Alpinismo
+
+## Preguntas de Datos Personales
+1. ¿Podría decirme su nombre completo?
+2. ¿Qué edad tiene?
+3. ¿Cuál es su lugar de residencia actual?
+4. ¿Tiene alguna experiencia previa en turismo de montaña o actividades al aire libre?
+5. ¿Con qué frecuencia suele realizar actividades como alpinismo o senderismo?
+
+## Preguntas Principales para la Validación de la Aplicación
+
+### Diseño e Interfaz
+- ¿Cómo percibe la apariencia de la página principal de la aplicación? ¿Le resulta visualmente atractiva y organizada?
+- ¿Diría que la interfaz es intuitiva y fácil de manejar? ¿Por qué o por qué no?
+
+### Contenido y Proceso de Registro
+- ¿El contenido presentado en la página de inicio le incita a registrarse? ¿Qué aspectos le resultan más llamativos o relevantes?
+- ¿Qué opina sobre el monitoreo que se realiza con dispositivos IoT para obtener datos como la temperatura, localización, latidos del corazón, entre otros? ¿Le parece útil esta funcionalidad?
+
+### Utilidad y Funcionalidades
+- ¿Considera que las funciones de la aplicación son útiles para planificar y realizar actividades de alpinismo? ¿Por qué?
+- ¿Hay alguna funcionalidad que le gustaría ver añadida para mejorar su experiencia?
+
+### Sugerencias de Mejora
+- ¿Hay algún aspecto de la aplicación que piense que necesita ajustes o mejoras? ¿Cuál sería su sugerencia?
+- ¿Alguna función adicional le resultaría útil para mejorar su experiencia como usuario de la aplicación?
+
+### Planes de Pago
+- ¿Estaría dispuesto a adquirir un plan de pago para acceder a funciones avanzadas? ¿Qué tipo de características o beneficios le motivarían a pagar?
+
+### Opinión General
+- ¿Cree que la aplicación cubre las necesidades de las personas interesadas en actividades de alpinismo?
+- ¿Recomendaría esta aplicación a otros que comparten el interés por el alpinismo y actividades de aventura? ¿Por qué?
+
 ### 7.3.2. Registro de Entrevistas.
 ### 7.3.3. Evaluaciones según heurísticas.
 ## 7.4. Video About-the-Product
