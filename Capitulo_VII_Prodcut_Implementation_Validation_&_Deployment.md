@@ -481,11 +481,17 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 
 ### TAREAS EVALUADAS
 - **Inicio de Sesión**
-- **Publicación de un Servicio de Montañismo**
+- **Publicación de un servicio de montañismo**
 - **Edición de un Servicio**
-- **Búsqueda de Servicios o Agencias**
-- **Filtrado de Servicios**
+- **Búsqueda de servicios o agencias**
+- **Filtrado de servicios**
 
+### TAREAS EXCLUIDAS
+- **Cerrar Sesión**
+- **Editar publicación de una agencia**
+- **Publicar comentario**
+- **Calificar servicio**
+  
 ### ESCALA DE SEVERIDAD
 | Nivel | Descripción                                                                 |
 |-------|-----------------------------------------------------------------------------|
