@@ -485,9 +485,9 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 
 -Backend
 
-<img src="./Resources/images/back-6.png">
+<img src="./Resources/images/back-6.jpg">
 
-<img src="./Resources/images/back-7.png">
+<img src="./Resources/images/back-7.jpg">
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint.
 - Frontend
