@@ -381,13 +381,13 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 
 2. **Frontend**
 - Primero, ingresar a Netlify y sincronizar nuestra cuenta de github, para acceder a nuestro repositorio
-<img src="./Resources/images/front-1.png">
+<img src="./Resources/images/front-1.jpg">
 
 - Segundo, otorgar permisos para que Netlify acceda a nuestro repositorio
-<img src="./Resources/images/front-2.png">
+<img src="./Resources/images/front-2.jpg">
 
 - Tercero, seleccionar el repositorio donde se encuentra el frontend e instalar
-<img src="./Resources/images/front-3.png">
+<img src="./Resources/images/front-3.jpg">
 
 - Finalmente, se muestra el frontend desplegado
 <img src="./Resources/images/front-4.png">
@@ -395,31 +395,31 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 3. **Backend**
 
 - Primero, creamos la base de datos en railway 
-<img src="./Resources/images/db-1.png">
+<img src="./Resources/images/db-1.jpg">
 
 - Segundo, conectamos la base de datos local a railway
-<img src="./Resources/images/db-2.png">
+<img src="./Resources/images/db-2.jpg">
 
 - Tercero, creamos el backend en Azure, indicando el nombre y la suscripcion
-<img src="./Resources/images/back-1.png">
+<img src="./Resources/images/back-1.jpg">
 
 - Cuarto, indicamos la version de Java y la region
-<img src="./Resources/images/back-2.png">
+<img src="./Resources/images/back-2.jpg">
 
 - Quinto, verificamos que la informacion otorgada sea correcta y vamos a deployment
-<img src="./Resources/images/back-3.png">
+<img src="./Resources/images/back-3.jpg">
 
 - Sexto, sincronizamos nuestra cuenta de Github con Azure para acceder al repositorio y colocamos los campos requeridos
-<img src="./Resources/images/back-4.png">
+<img src="./Resources/images/back-4.jpg">
 
 - Septimo, una vez creado nos mostrara si se creo correctamente
-<img src="./Resources/images/back-5.png">
+<img src="./Resources/images/back-5.jpg">
 
 - Octavo, verificamos en Github Actions el deploy en Azure
-<img src="./Resources/images/back-6.png">
+<img src="./Resources/images/back-6.jpg">
 
 - Finalmente, podremos acceder al backend desplegado
-<img src="./Resources/images/back-7.png">
+<img src="./Resources/images/back-7.jpg">
   
 ## 7.2. Solution Implementation.
 ### 7.2.1. Sprint 1
