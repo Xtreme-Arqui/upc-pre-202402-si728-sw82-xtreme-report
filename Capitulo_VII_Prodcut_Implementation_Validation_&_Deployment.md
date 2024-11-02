@@ -533,6 +533,6 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 - **Descripción**: La función de filtrado para buscar servicios de montañismo no es intuitiva; además, carece de opciones suficientes para refinar las búsquedas de manera eficiente. Esto dificulta que los usuarios encuentren rápidamente el servicio o agencia que buscan.
 - **Recomendación**: Mejorar la función de filtrado agregando opciones más detalladas y relevantes para los usuarios. También sería útil rediseñar la interfaz de los filtros para que sea fácil de entender y utilizar, facilitando una búsqueda más rápida y personalizada.
 
-<img src="./Resources/images/heuristic2.png">
+<img src="./Resources/heuristic2.png">
 
 ## 7.4. Video About-the-Product
