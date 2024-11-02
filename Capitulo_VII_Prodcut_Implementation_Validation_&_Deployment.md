@@ -383,7 +383,54 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 ## 7.2. Solution Implementation.
 ### 7.2.1. Sprint 1
 #### 7.2.1.1. Sprint Planning 1.
+
+| Sprint \# | Sprint 1 |
+| :---- | :---- |
+| **Sprint Planning Background ** |  |
+| Date | 2024-10-21 |
+| Time | 21:20 PM |
+| Location | Virtual (Plataforma Discord) |
+| Prepared By | Arnol Caceres |
+| Attendees (to planning meeting) | Arnol Caceres, Emerson Quispe, Fiorella Valencia, Franco Surco y Piero Stefano |
+| Sprint n-1 Review Summary | No se aplica para esta entrega |
+| Sprint n-1 Retrospective Summary | No se aplica para esta entrega |
+| **Sprint Goal & User Stories ** |  |
+| Sprint 1 Goal | \- Corregir los puntos de documentación de la entrega anterior \- Desplegar landing page de Turistas y Agencias \- Desplegar primera versión de frontend \- Desplegar primera versión de backend |
+| Sprint 1 Velocity | Para este sprint calculamos que podemos aceptar 130 Story Points |
+| Sum of Story Points | 127 |
+
 #### 7.2.1.2. Sprint Backlog 1.
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- | :---- | :---- | :---- |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+|  Id | Título | id | Descripcion | Estimation (Hours) |  | Assigned To | Status(To-do / InProcess / ToReview / Done) |
+| US-14 | Ver portada | US-14-1 | **Como** usuario **deseo** visualizar una portada en landing page **para** poder captar mi atención y no me aburra al momento de leer el contenido | 3 | Franco Surco \- Arnol Caceres |  | Done |
+| US-15 | Información de la aplicación | US-15-1 | **Como** usuario **deseo** ver información acerca de la aplicación **para** poder saber las funcionalidades que ofrece la aplicación | 3 | Franco Surco \- Arnol Caceres |  | Done |
+| US-16 | Motivos por el cual unirnos | US-16-1 | **Como** usuario **deseo** ver motivos por el cual unirnos a la aplicación **para** poder saber los beneficios que ofrece la aplicación | 3 | Franco Surco \- Arnol Caceres |  | Done |
+| US-17 | Redirección a la aplicación | US-17-1 | **Como** usuario **deseo** que haya un call-to-action **para** poder entrar a la aplicación | 3 | Franco Surco \- Arnol Caceres |  | Done |
+| US-18 | Footer de la landing page | US-18-1 | **Como** usuario **deseo** que haya un footer **para** poder ver las redes sociales y los contactos de la aplicación | 3 | Franco Surco \- Arnol Caceres |  | Done |
+| US-19 | About the product | US-19-1 | **Como** usuario **deseo** que haya un video acerca de la aplicación **para** poder ver las funcionalidades que tiene de una manera más visual. | 3 | Franco Surco \- Arnol Caceres |  | Done |
+| US-20 | Responsive design | US-20-1 | **Como** usuario **deseo** que la aplicación sea responsiva **para** poder visualizar la landing page desde cualquier dispositivo. | 3 | Franco Surco \- Arnol Caceres |  | Done |
+| US-01 | Añadir servicio | US-01-1 | **Como** agencia **deseo** agregar mis servicios **para que** mis clientes sepan más sobre lo que ofrezco. | 8 | Emerson Quispe \- Fiorella Valencia \- Piero Stefano |  | Done |
+| US-05 | Crear ofertas | US-05-1 | **Como** turista **deseo** ver ofertas y paquetes recomendados de diferentes agencias **para** escoger la mejor opción que se acomode a lo que necesito. | 8 | Emerson Quispe \- Fiorella Valencia \- Piero Stefano |  | Done |
+| US-11 | Monitorear clientes  | US-11-1 | **Como** agencia **deseo** tener control del estado del servicio ofrecido a mis clientes **para** indicar cuando un servicio se ha cumplido satisfactoriamente. | 8 | Emerson Quispe \- Fiorella Valencia \- Piero Stefano |  | Done |
+| US-13 | Ver servicio | US-13-1 | **Como** turista **deseo** acceder a los detalles de un servicio ofrecido por una agencia **para** decidir si adquirirlo o no. | 5 | Emerson Quispe \- Franco Surco |  | Done |
+| US-06 | Buscar agencias | US-06-1 | **Como** turista **deseo** buscar agencias haciendo uso de varios filtros **para** escoger la mejor agencia según lo que necesito. | 5 | Emerson Quispe \- Franco Surco |  | Done |
+| US-02 | Personalizar viaje | US-02-1 | **Como** turista **deseo** personalizar el viaje que haré con una agencia, modificando aspectos del viaje **para** tener una mejor experiencia. | 8 | Emerson Quispe \- Fiorella Valencia \- Piero Stefano |  | Done |
+| US-03 | Visualizar reseña | US-03-1 | **Como** agencia **deseo** visualizar las reseñas que tiene mi negocio **para** saber que puedo mejorar o agregar. | 5 | Emerson Quispe \- Arnol Caceres |  | Done |
+| US-07 | Ver valoraciones | US-07-1 | **Como** turista **deseo** ver las valoraciones de otros usuarios con cada agencia **para** saber si la agencia es segura o de confianza. | 5 | Emerson Quispe \- Franco Surco |  | Done |
+| US-08 | Editar página de negocio | US-08-1 | **Como** agencia **deseo** editar la página de mi negocio **para** colocar toda mi información y los medios de contacto. | 3 | Emerson Quispe \- Arnol Caceres |  | Done |
+| US-05 | Crear ofertas | US-05-1 | **Como** agencia **deseo** crear ofertas y descuentos de mis servicios **para** atraer a más clientes. | 3 | Fiorella Valencia \- Piero Stefano |  | Done |
+| US-11 | Calificar servicio | US-11-1 | **Como** turista **deseo** calificar el servicio que contraté **para** mostrar mi agrado o desagrado y más usuarios sepan sobre el mismo. | 3 | Fiorella Valencia \- Piero Stefano |  | Done |
+| US-09 | Cambiar plan de suscripción | US-09-1 | **Como** agencia **deseo** cambiar mi plan de suscripción **para** ofrecer más servicios a mis clientes. | 8 | Fiorella Valencia \- Piero Stefano |  | Done |
+| US-10 | Crear promociones | US-10-1 | **Como** agencia **deseo** crear campañas de promoción **para** llegar a más clientes. | 5 | Franco Surco \- Arnol Caceres |  | Done |
+| US-21 | Acceso al aplicativo | US-21-1 | **Como** usuario de “Go2Climb**” Quiero** poder utilizar la aplicación desde diferentes navegadores **Para** poder buscar agencias y servicios de alpinismo sin estar limitado a un navegador. | 3 | Piero Stefano |  | Done |
+| US-22 | Velocidad de carga | US-22-1 | **Como** usuario de la plataforma  **Quiero** que la velocidad de carga de la aplicación sea rápida y eficiente**, Para** poder acceder rápidamente a la información de las agencias y servicios  sin demoras.  | 3 | Piero Stefano |  | Done |
+| US-23 | Interfaz interactiva y deductiva | US-23-1 | **Como** usuario **Quiero** poder buscar y reservar vuelos y hoteles de manera rápida y sencilla **Para** que pueda planificar mis viajes sin problemas | 3 | Emerson Quispe |  | Done |
+| US-24 | Protección de data | US-24-1 | **Como** usuario **Quiero** que mi información personal y financiera esté protegida contra el acceso no autorizado o el robo **Para** que pueda reservar vuelos y hoteles con confianza  | 5 | Fiorella Valencia \- Piero Stefano |  | In-Process |
+| US-26 | Comentarios para las actividades | US-26-1 | **Como** turista de la plataforma, **quiero** poder compartir mis comentarios y opiniones sobre las actividades proporcionadas por las empresas, **para** que otros usuarios puedan tomar decisiones informadas sobre su participación en esas actividades. | 5 | Fiorella Valencia \-  Emerson Quispe  |  | Done |
+| US-27 | Monitorear datos del turista | US-27-1 | **Como** turista deseo revisar mis datos de actividad (pasos, latidos del corazón, temperatura y ubicación) obtenidos a través de mis botas o reloj durante mi experiencia de alpinismo **para** poder monitorear mi estado físico y condiciones durante la actividad. | 8 | Fiorella Valencia \- Emerson Quispe \- Franco Surco |  | In-Process |
+| US-28 | Ver datos de turistas por agencia | US-28-1 | **Como** agencia de turismo deseo poder acceder a los datos de actividad de los turistas que han utilizado mis servicios, **para** poder monitorear su progreso y ofrecer recomendaciones de seguridad. | 8 | Fiorella Valencia \-  Emerson Quispe |  | In-Process |
 #### 7.2.1.3. Development Evidence for Sprint Review.
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review.
 #### 7.2.1.5. Execution Evidence for Sprint Review.
