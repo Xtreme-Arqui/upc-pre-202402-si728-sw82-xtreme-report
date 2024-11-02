@@ -379,6 +379,7 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 <img src="./Resources/images/landing-2.png">
 2. **Frontend**
 3. **Backend**
+  
 ## 7.2. Solution Implementation.
 ### 7.2.1. Sprint 1
 #### 7.2.1.1. Sprint Planning 1.
