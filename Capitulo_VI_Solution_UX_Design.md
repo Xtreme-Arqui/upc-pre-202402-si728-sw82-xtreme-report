@@ -84,4 +84,11 @@
     - Aplicacion web
     <img src="./Resources/images/wireframes/wireflow tourist.png" > 
     - Aplicacion movil
-    <img src="./Resources/images/wireframes/wireflow movil.png" > 
+    <img src="./Resources/images/wireframes/wireflow movil.png" >
+
+### 6.5. Applications Prototyping
+Se presenta el prototipo que se realizó en base a los mockups que se documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+
+<img src="./Resources/images/prop1.png" > 
+
+<img src="./Resources/images/prop2.png" > 
