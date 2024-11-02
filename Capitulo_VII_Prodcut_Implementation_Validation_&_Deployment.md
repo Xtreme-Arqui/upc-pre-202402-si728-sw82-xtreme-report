@@ -477,7 +477,25 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 #### 7.2.1.5. Execution Evidence for Sprint Review.
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
+- Landing Page
+<img src="./Resources/images/landing-5.png">
+
+- Frontend
+<img src="./Resources/images/front-5.png">
+
+-Backend
+
+<img src="./Resources/images/back-6.png">
+
+<img src="./Resources/images/back-7.png">
+
 #### 7.2.1.8. Team Collaboration Insights during Sprint.
+- Frontend
+<img src="./Resources/images/team-1.png">
+
+- Backend
+<img src="./Resources/images/team-2.png">
+
 ## 7.3. Validation Interviews.
 ### 7.3.1. Diseño de Entrevistas
 # Entrevista de Validación para la Aplicación de Turismo de Alpinismo
