@@ -371,6 +371,14 @@ Scenario: Successful login
 
 Estas convenciones y guías de estilo nos ayudarán a mantener un código limpio, consistente y fácil de mantener a lo largo de todo el proyecto. Todos los miembros del equipo deben adherirse a estas pautas para asegurar la calidad y uniformidad del código.
 ### 7.1.4. Software Deployment Configuration.
+En esta seccion se mostrara la configuracion que se realizo para el landing page, frontend y backend
+1. **Landing Page**
+- Primero ingresar al repositorio del Landing Page e ingresar en Settings
+<img src="./Resources/images/landing-1.png">
+- Segundo seleccionar Pages y escoger la rama main y guardar
+<img src="./Resources/images/landing-2.png">
+2. **Frontend**
+3. **Backend**
 ## 7.2. Solution Implementation.
 ### 7.2.1. Sprint 1
 #### 7.2.1.1. Sprint Planning 1.
