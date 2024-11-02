@@ -375,10 +375,51 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 1. **Landing Page**
 - Primero ingresar al repositorio del Landing Page e ingresar en Settings
 <img src="./Resources/images/landing-1.png">
+
 - Segundo seleccionar Pages y escoger la rama main y guardar
 <img src="./Resources/images/landing-2.png">
+
 2. **Frontend**
+- Primero, ingresar a Netlify y sincronizar nuestra cuenta de github, para acceder a nuestro repositorio
+<img src="./Resources/images/front-1.png">
+
+- Segundo, otorgar permisos para que Netlify acceda a nuestro repositorio
+<img src="./Resources/images/front-2.png">
+
+- Tercero, seleccionar el repositorio donde se encuentra el frontend e instalar
+<img src="./Resources/images/front-3.png">
+
+- Finalmente, se muestra el frontend desplegado
+<img src="./Resources/images/front-4.png">
+
 3. **Backend**
+
+- Primero, creamos la base de datos en railway 
+<img src="./Resources/images/db-1.png">
+
+- Segundo, conectamos la base de datos local a railway
+<img src="./Resources/images/db-2.png">
+
+- Tercero, creamos el backend en Azure, indicando el nombre y la suscripcion
+<img src="./Resources/images/back-1.png">
+
+- Cuarto, indicamos la version de Java y la region
+<img src="./Resources/images/back-2.png">
+
+- Quinto, verificamos que la informacion otorgada sea correcta y vamos a deployment
+<img src="./Resources/images/back-3.png">
+
+- Sexto, sincronizamos nuestra cuenta de Github con Azure para acceder al repositorio y colocamos los campos requeridos
+<img src="./Resources/images/back-4.png">
+
+- Septimo, una vez creado nos mostrara si se creo correctamente
+<img src="./Resources/images/back-5.png">
+
+- Octavo, verificamos en Github Actions el deploy en Azure
+<img src="./Resources/images/back-6.png">
+
+- Finalmente, podremos acceder al backend desplegado
+<img src="./Resources/images/back-7.png">
   
 ## 7.2. Solution Implementation.
 ### 7.2.1. Sprint 1
