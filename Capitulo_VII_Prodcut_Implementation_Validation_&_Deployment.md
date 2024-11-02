@@ -475,4 +475,52 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 
 ### 7.3.2. Registro de Entrevistas.
 ### 7.3.3. Evaluaciones según heurísticas.
+# Evaluación según Heurísticas de UX
+**Usabilidad – Diseño Inclusivo – Arquitectura de la Información**  
+**APLICACIÓN**: TrailSync  
+
+## TAREAS EVALUADAS
+- **Inicio de Sesión**
+- **Publicación de un Servicio de Montañismo**
+- **Edición de un Servicio**
+- **Búsqueda de Servicios o Agencias**
+- **Filtrado de Servicios**
+
+## ESCALA DE SEVERIDAD
+| Nivel | Descripción                                                                 |
+|-------|-----------------------------------------------------------------------------|
+| **1** | Problema leve: el usuario puede superarlo fácilmente o ocurre raramente.    |
+| **2** | Problema menor: ocurre con cierta frecuencia y puede ser más molesto.       |
+| **3** | Problema significativo: sucede regularmente o es difícil de superar. Se debe dar prioridad. |
+| **4** | Problema crítico: impide que el usuario continúe. Necesita solución urgente antes del lanzamiento. |
+
+## TABLA RESUMEN
+| #  | Problema                                                                                      | Severidad | Heurística/Principio Violado                   |
+|----|-----------------------------------------------------------------------------------------------|-----------|------------------------------------------------|
+| 1  | La interfaz de inicio de sesión no proporciona retroalimentación sobre errores de entrada     | 2         | Usabilidad: Ayuda para reconocer y recuperarse de errores |
+| 2  | Al publicar o editar un servicio, no se muestra una confirmación de éxito                    | 3         | Usabilidad: Visibilidad del estado del sistema |
+| 3  | Los filtros de búsqueda de servicios no son intuitivos y limitan las opciones del usuario    | 3         | Usabilidad: Flexibilidad y eficiencia de uso   |
+
+---
+
+## DESCRIPCIÓN DE LOS PROBLEMAS
+
+### PROBLEMA #1: La interfaz de inicio de sesión no proporciona retroalimentación sobre errores de entrada
+- **Severidad**: 2
+- **Heurística violada**: Usabilidad - Ayuda para reconocer y recuperarse de errores
+- **Descripción**: Cuando los usuarios ingresan información incorrecta en el inicio de sesión (como una contraseña o nombre de usuario incorrecto), no reciben una retroalimentación clara o inmediata sobre el error específico, lo cual dificulta el proceso de autenticación.
+- **Recomendación**: Agregar mensajes de error claros para ayudar a los usuarios a entender qué campo está incorrecto (usuario o contraseña) y cómo pueden corregirlo. Esto mejorará la experiencia al reducir la frustración y ayudar a los usuarios a iniciar sesión con más facilidad.
+
+### PROBLEMA #2: Al publicar o editar un servicio, no se muestra una confirmación de éxito
+- **Severidad**: 3
+- **Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+- **Descripción**: Cuando los usuarios crean o editan un servicio de montañismo, la aplicación no muestra ningún mensaje de confirmación que indique que la acción se realizó con éxito. Esto puede hacer que los usuarios no estén seguros de si el servicio fue publicado o los cambios se guardaron.
+- **Recomendación**: Implementar un mensaje de confirmación claro que aparezca después de publicar o editar un servicio. Esto mejorará la confianza del usuario en la aplicación y proporcionará una retroalimentación inmediata de sus acciones.
+
+### PROBLEMA #3: Los filtros de búsqueda de servicios no son intuitivos y limitan las opciones del usuario
+- **Severidad**: 3
+- **Heurística violada**: Usabilidad - Flexibilidad y eficiencia de uso
+- **Descripción**: La función de filtrado para buscar servicios de montañismo no es intuitiva; además, carece de opciones suficientes para refinar las búsquedas de manera eficiente. Esto dificulta que los usuarios encuentren rápidamente el servicio o agencia que buscan.
+- **Recomendación**: Mejorar la función de filtrado agregando opciones más detalladas y relevantes para los usuarios. También sería útil rediseñar la interfaz de los filtros para que sea fácil de entender y utilizar, facilitando una búsqueda más rápida y personalizada.
+
 ## 7.4. Video About-the-Product
