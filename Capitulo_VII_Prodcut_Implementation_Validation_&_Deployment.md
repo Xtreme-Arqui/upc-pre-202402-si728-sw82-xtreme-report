@@ -632,7 +632,7 @@ Entrevista 1:
 
 **Screenshot aca**
 
-- Link del video:
+- Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/Eb17RNsxQopHo7o5c1Y29c8BRtGb7QIE9LsL7sPM1TFV_Q?e=W4SLzO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Timing de la entrevista: 00:00 - 00:00
 - Duración de la entrevista: 
 
@@ -652,7 +652,7 @@ Entrevista 2:
 
 **Screenshot aca**
 
-- Link del video:
+- Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/Eb17RNsxQopHo7o5c1Y29c8BRtGb7QIE9LsL7sPM1TFV_Q?e=W4SLzO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Timing de la entrevista: 00:00 - 00:00
 - Duración de la entrevista: 
 
@@ -671,10 +671,13 @@ Entrevista 3:
 - Edad: 25
 - Distrito: Lima, Pueblo Libre
 - Ocupación: Médica
-- Link: 
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/Eb17RNsxQopHo7o5c1Y29c8BRtGb7QIE9LsL7sPM1TFV_Q?e=W4SLzO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- - Timing de la entrevista: 11:11 - 21:10
 
 Resumen:
 Camila La Torre, una médica de 25 años de Lima, evaluó la aplicación de manera positiva. Destacó su diseño visual atractivo y la facilidad de uso de la interfaz, lo cual le resultó intuitivo y bien organizado. El contenido de la página de inicio le pareció lo suficientemente interesante como para motivarla a registrarse, especialmente por la funcionalidad de monitoreo mediante dispositivos IoT, que incluye parámetros como temperatura, localización y ritmo cardíaco, características que consideró muy útiles para actividades de alpinismo. Aunque no sugirió mejoras ni funcionalidades adicionales, expresó que el conjunto actual cumple con sus expectativas. Además, mencionó que estaría dispuesta a pagar por un plan si incluye características avanzadas de seguridad. En general, cree que la aplicación cubre las necesidades de los interesados en alpinismo y estaría dispuesta a recomendarla.
+
+<img src="./Resources/entrevistaCL.png">
 
 Entrevista 4: 
 - Nombre completo: Jorge Garcia
@@ -682,7 +685,7 @@ Entrevista 4:
 
 <img src="./Resources/images/entrevista-1.png">
 
-- Link del video:
+- Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/Eb17RNsxQopHo7o5c1Y29c8BRtGb7QIE9LsL7sPM1TFV_Q?e=W4SLzO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Timing de la entrevista: 00:00 - 00:00
 - Duración de la entrevista: 
 
