@@ -474,7 +474,13 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 | US-28 | Ver datos de turistas por agencia | US-28-1 | **Como** agencia de turismo deseo poder acceder a los datos de actividad de los turistas que han utilizado mis servicios, **para** poder monitorear su progreso y ofrecer recomendaciones de seguridad. | 8 | Fiorella Valencia \-  Emerson Quispe |  | In-Process |
 #### 7.2.1.3. Development Evidence for Sprint Review.
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review.
+
+<img src="./Resources/images/testing2.png"> 
+
 #### 7.2.1.5. Execution Evidence for Sprint Review.
+
+<img src="./Resources/images/testing.png"> 
+
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
 - Landing Page
