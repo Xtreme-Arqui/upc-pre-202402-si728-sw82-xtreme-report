@@ -186,12 +186,18 @@ Se están examinando detenidamente las entrevistas con los usuarios, así como  
 TP1:
 Me encargué de diseñar el Domain Layer y el Application Layer, asegurando una estructura sólida y clara para la lógica del sistema, facilitando la futura implementación de funcionalidades.  
 
+TB2:
+ Me encargué de avanzar con el desarrollo del backend, asegurando que los servicios principales estuvieran correctamente implementados y listos para su integración con el frontend. Esto incluyó pruebas iniciales para verificar la funcionalidad y estabilidad de los endpoints.
+ 
 Emerson Gerardo Quispe Villegas   
 TB1:
 Ejecución de entrevistas a los usuarios para poder obtener una información   sobre sus historias para luego realizar un análisis relevante sobre sus  problemas y necesidades.  
 
 TP:
 Evaluamos las principales historias de usuario y en base a eso, se realizo   las diferentes vistas para el sector de agencias y el sector de turistas.  Ademas se realizó el wireflow diagram para las aplicaciones web y movil.
+
+TB2:
+Trabajé en el desarrollo del frontend, enfocándome en crear interfaces intuitivas y funcionales que se comunicaran correctamente con los servicios del backend, facilitando una experiencia de usuario coherente y fluida.
 
 Franco Marcelo Manuel Surco Reyes   
 TB1:
@@ -200,6 +206,9 @@ Se llevó a cabo una minuciosa evaluación de las entrevistas y las necesidades 
 TP:
 Fui responsable del diseño de la Infraestructura y los diagramas de base de datos, asegurando que la interacción entre la lógica del sistema y el almacenamiento de datos sea eficiente y fluida
 
+TB2:
+Mi responsabilidad fue coordinar la integración del backend y frontend, gestionando la configuración de las conexiones y asegurando una comunicación estable entre ambos, para ofrecer una experiencia completa en la aplicación.
+
 Arnol Omar Caceres Bueno    
 TB1:
 Se hicieron entrevistas con la finalidad de tener una mayor comprensión de   las necesidades del usuario.   
@@ -207,12 +216,19 @@ Se hicieron entrevistas con la finalidad de tener una mayor comprensión de   la
 TP:
 Diseñé los wireframes y mock-ups de la landing page, enfocándome en crear una primera impresión que sea atractiva y fácil de usar para los visitantes.
 
+TB2:
+Me encargué del despliegue de los servicios en el entorno de producción, configurando los recursos necesarios y gestionando los accesos. Esto permitió que todo el equipo pudiera realizar pruebas de manera continua y detectar posibles mejoras.
+
 Piero Stefano Márquez    
 TB1: 
 Se llevaron a cabo análisis de entrevistas de cada segmento objetivo para    obtener una comprensión completa de las necesidades del usuario. Esto    permitió abordar y resolver esas necesidades.   
 
 TP:
 Me centré en la arquitectura de la información y los sistemas de navegación, optimizando la usabilidad y visibilidad del sistema, además de asegurar una mejor experiencia para los usuarios.
+
+TB2:
+Realicé pruebas exhaustivas de los servicios desplegados, enfocándome en verificar que las funcionalidades principales cumplieran con los requisitos establecidos y ayudando a identificar y corregir errores para mejorar la estabilidad del sistema.
+
 </td>
     <td>
 Es fundamental la capacidad de comunicar de manera oral las ideas resultados al público, ya que esto facilita que puedan brindar sretroalimentación de manera directa acerca de la aplicación.
