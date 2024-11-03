@@ -474,7 +474,92 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 | US-28 | Ver datos de turistas por agencia | US-28-1 | **Como** agencia de turismo deseo poder acceder a los datos de actividad de los turistas que han utilizado mis servicios, **para** poder monitorear su progreso y ofrecer recomendaciones de seguridad. | 8 | Fiorella Valencia \-  Emerson Quispe |  | In-Process |
 #### 7.2.1.3. Development Evidence for Sprint Review.
 En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 1. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
-
+<table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Commit Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Web-Application-Front</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mobile-Application</td>
+            <td>Main</td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mobile-Application</td>
+            <td>feature/notifications</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Backend</td>
+            <td>Main</td>
+            <td>894a234567e0bffde38c95f5d5f99921a9099104</td>
+            <td>Primer Commit</td>
+            <td>-</td>
+            <td>Oct 27,2024</td>
+        </tr>
+        <tr>
+            <td>Backend</td>
+            <td>Main</td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Backend</td>
+            <td>Main</td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review.
 En esta sección, el equipo presenta el conjunto de pruebas automatizadas realizadas durante el Sprint 1, incluyendo Unit Tests, Integration Tests y Acceptance Tests. Se detallan las clases y comportamientos asociados a cada test, y se incluyen ejemplos de los archivos .feature y Steps para los tests de BDD. También proporcionamos la ruta del repositorio y los commits relacionados con los avances en testing.
 #### 7.2.1.5. Execution Evidence for Sprint Review.
