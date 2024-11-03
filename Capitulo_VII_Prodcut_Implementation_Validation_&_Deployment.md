@@ -789,3 +789,8 @@ Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/
 
 <img src="./Resources/abouteamreal.png">
 
+| Anexo A. Video Exposiciones |          |          |
+|-----------------------------|----------|----------|
+| **Entrega**                 | **URL**  |
+| TP                          | [https://youtu.be/Zp8DbZzcL7s](https://youtu.be/Zp8DbZzcL7s](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/EYb_-gUlwQBNmaTs4Cztxp0BLAsgRcI4Rp24A51IBpQP8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zF9YQy) |
+| TB2                         | [upc-pre-202401-si728-sw81-NexusNova-expo-tb2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/ER-G7GkTCVRPnjFLEF8nhkUB65BeFO4Jz6koajQrvVGw8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WGXN0D) |
