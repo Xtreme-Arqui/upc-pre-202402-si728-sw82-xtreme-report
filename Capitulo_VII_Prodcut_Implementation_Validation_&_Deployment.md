@@ -759,6 +759,6 @@ Al finalizar la entrevista, Jorgue destaco que la aplicacion movil, pueda notifi
 ## 7.4. Video About-the-Product
 Se presenta el video About the Product. En el cúal se muestra la aplicación de TrailSync.
 
-Enlace: https://upcedupe-my.sharepoint.com/personal/u20201b944_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201b944%5Fupc%5Fedu%5Fpe%2FDocuments%2FAbout%20the%20team%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2e23bfe%2D7bda%2D4e1e%2D9381%2Dbeb15e134751&isDarkMode=true 
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/EW1dU6UXdgFFomWruiow-bsBNlR9QpbodxxkOYvmElpVVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ZpkcKj
 
 <img src="./Resources/abouteam.png">
