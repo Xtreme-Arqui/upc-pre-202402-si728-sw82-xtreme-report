@@ -21,7 +21,7 @@ Profesor: Rojas Malasquez, Royer Edelwer
 
 ## Xtream
 
-### Go2Climb
+### TrailSync
 
 #### Team Members
 
@@ -469,10 +469,10 @@ A continuación, se realiza un análisis competitivo de los tres competidores se
     <th colspan="2"></th>
     <th>
       <div>
-        <img src="./Resources/images/logo.png" width="100" alt="logo"/>
+        <img src="./Resources/images/trailsync.png" width="100" alt="logo"/>
       </div>
       <div>
-        Go2Climb
+        TrailSync
       </div>
     </th>
     <th>
@@ -1532,7 +1532,7 @@ Este diagrama incluiría la conexión entre controladores, servicios de aplicaci
 
 En esta sección, definiremos el logotipo de nuestra aplicación con el objetivo de darla a conocer a los usuarios. Nuestro propósito principal es generar percepciones favorables, añadir valor a nuestros servicios y posicionar nuestra marca de manera efectiva en el mercado. A través de un diseño distintivo y coherente, buscamos crear una identidad visual que refleje la innovación y eficiencia de nuestros servicios.
 
-<img src="./Resources/images/logo.png">
+<img src="./Resources/images/trailsync.png">
 
 - Typography
 
