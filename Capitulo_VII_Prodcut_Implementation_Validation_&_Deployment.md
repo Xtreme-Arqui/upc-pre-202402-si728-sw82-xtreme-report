@@ -776,3 +776,11 @@ Se presenta el video About the Product. En el cúal se muestra la aplicación de
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/EW1dU6UXdgFFomWruiow-bsBNlR9QpbodxxkOYvmElpVVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ZpkcKj
 
 <img src="./Resources/abouteam.png">
+
+## 7.5. Video About-the-Team
+Se presenta el video About the Team. En el cúal se muestra al equipo de desarrollo.
+
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b944_upc_edu_pe/EW1dU6UXdgFFomWruiow-bsBNlR9QpbodxxkOYvmElpVVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YEL6lf
+
+<img src="./Resources/abouteamreal.png">
+
