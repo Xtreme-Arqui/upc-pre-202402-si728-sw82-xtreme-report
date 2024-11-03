@@ -473,15 +473,14 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 | US-27 | Monitorear datos del turista | US-27-1 | **Como** turista deseo revisar mis datos de actividad (pasos, latidos del corazón, temperatura y ubicación) obtenidos a través de mis botas o reloj durante mi experiencia de alpinismo **para** poder monitorear mi estado físico y condiciones durante la actividad. | 8 | Fiorella Valencia \- Emerson Quispe \- Franco Surco |  | In-Process |
 | US-28 | Ver datos de turistas por agencia | US-28-1 | **Como** agencia de turismo deseo poder acceder a los datos de actividad de los turistas que han utilizado mis servicios, **para** poder monitorear su progreso y ofrecer recomendaciones de seguridad. | 8 | Fiorella Valencia \-  Emerson Quispe |  | In-Process |
 #### 7.2.1.3. Development Evidence for Sprint Review.
+En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 1. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
+
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review.
-
-<img src="./Resources/images/testing2.png"> 
-
+En esta sección, el equipo presenta el conjunto de pruebas automatizadas realizadas durante el Sprint 1, incluyendo Unit Tests, Integration Tests y Acceptance Tests. Se detallan las clases y comportamientos asociados a cada test, y se incluyen ejemplos de los archivos .feature y Steps para los tests de BDD. También proporcionamos la ruta del repositorio y los commits relacionados con los avances en testing.
 #### 7.2.1.5. Execution Evidence for Sprint Review.
-
-<img src="./Resources/images/testing.png"> 
-
+En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 1. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review.
+En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 1. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
 - Landing Page
 <img src="./Resources/images/landing-5.png">
@@ -539,6 +538,59 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 - ¿Recomendaría esta aplicación a otros que comparten el interés por el alpinismo y actividades de aventura? ¿Por qué?
 
 ### 7.3.2. Registro de Entrevistas.
+En esta sección se registrarán las entrevistas realizadas con la información recolectada de las respuestas realizadas en la sección de diseño de entrevista.
+
+Entrevista 1: 
+- Nombre completo: Abel Montoya
+- Edad: 23 años
+- Distrito: Agustino
+
+**Screenshot aca**
+
+- Link del video:
+- Timing de la entrevista: 00:00 - 00:00
+- Duración de la entrevista: 
+
+Resumen:
+Abel Montoya, de 23 años, vive en el distrito del Agustino y hace ejercicio tres veces por semana pero no practica alpinismo ni senderismo. Durante la entrevista, mencionó que a pesar que no lo practica si le gastaría en algún momento probarlo mas que todo por la experiencia y las vistas.
+
+Cuando le presentamos nuestra propuesta, mostró gran interés en la lógica del negocio. Según él, esto ahorraría tiempo a los turistas que buscan ciertos lugares que cumplan con sus propios requisitos para esto el buscador con filtro presento una solución. También valoró la idea de poder ver mucho información clave en cada publicación del home como la dificultad, el precio y la descripción del recorrido.
+
+El dispositivo IOT que le presentamos le pareció una idea innovadora y muy útil para las personas que practican estos deporte. Destaco los informes en tiempo real que visualizaría la agencia y el turistas desde su propio dispositivo móvil. Esto seria muy útil para marcar tiempos, pathings y socorrer lo mas pronto a alguien que lo necesite en caso de un accidente. 
+
+Al finalizar la entrevista, Abel sugirió una mejora adicional para nuestra solución: Acelerar los tiempos de carga. Esto, según él, haría mas cómoda y con un mejor flujo la navegación en la web.
+
+Entrevista 2: 
+- Nombre completo: Diego Acosta
+- Edad: 24 años
+- Distrito: San Miguel 
+
+**Screenshot aca**
+
+- Link del video:
+- Timing de la entrevista: 00:00 - 00:00
+- Duración de la entrevista: 
+
+Resumen:
+Diego Acosta, de 24 años, vive en el distrito de San Miguel y practica senderismo una vez al año en viajes familiares. Durante la entrevista, menciono que le gustaria practicar mas estos deportes pero no sabe quien lo podría orientar.
+
+Cuando le presentamos nuestra propuesta, mostró gran interés en como están distribuidos los paquetes y la información completa que ofrecen. Según él, las estadísticas que muestran en cada publicación son las características mas importantes que alguien interesado podría pedir ya que en su experiencia muchas veces las agencias se guardan información importante. También valoró la idea de poder dejar reseñas en las publicaciones y poder leer la de otros usuarios porque así podría juzgar mejor si quiere o no ese paquete..
+
+El dispositivo IOT que le presentamos le pareció una idea revolucionaria. Destaco que la informacion en tiempo real que se mostrara puede ser muy util para personas que sufran problemas al corazon como taticardias, o infartos. Esto seria muy útil para socorrer de forma rapida a gente que tenga un infarto, un golpe de calor o que simplemente se perdio siendo ubicado rapidamente con el gps. 
+
+Al finalizar la entrevista, Diego destaco bastante el uso de la aplicacion movil para poder ver tus propios datos y mantener el control sobre estos mismos. Esto ayudaria a estar preparados para ciertos inconvenientes que se podrian presentar en media caminata.
+
+Entrevista 3:
+- Nombre: Camila
+- Apellidos: La Torre
+- Edad: 25
+- Distrito: Lima, Pueblo Libre
+- Ocupación: Médica
+- Link: 
+
+Resumen:
+Camila La Torre, una médica de 25 años de Lima, evaluó la aplicación de manera positiva. Destacó su diseño visual atractivo y la facilidad de uso de la interfaz, lo cual le resultó intuitivo y bien organizado. El contenido de la página de inicio le pareció lo suficientemente interesante como para motivarla a registrarse, especialmente por la funcionalidad de monitoreo mediante dispositivos IoT, que incluye parámetros como temperatura, localización y ritmo cardíaco, características que consideró muy útiles para actividades de alpinismo. Aunque no sugirió mejoras ni funcionalidades adicionales, expresó que el conjunto actual cumple con sus expectativas. Además, mencionó que estaría dispuesta a pagar por un plan si incluye características avanzadas de seguridad. En general, cree que la aplicación cubre las necesidades de los interesados en alpinismo y estaría dispuesta a recomendarla.
+
 ### 7.3.3. Evaluaciones según heurísticas.
 # Evaluación según Heurísticas de UX
 **Usabilidad – Diseño Inclusivo – Arquitectura de la Información**  
@@ -601,3 +653,8 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 <img src="./Resources/heuristic2.png">
 
 ## 7.4. Video About-the-Product
+Se presenta el video About the Product. En el cúal se muestra la aplicación de TrailSync.
+
+Enlace: https://upcedupe-my.sharepoint.com/personal/u20201b944_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201b944%5Fupc%5Fedu%5Fpe%2FDocuments%2FAbout%20the%20team%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb2e23bfe%2D7bda%2D4e1e%2D9381%2Dbeb15e134751&isDarkMode=true 
+
+<img src="./Resources/abouteam.png">
