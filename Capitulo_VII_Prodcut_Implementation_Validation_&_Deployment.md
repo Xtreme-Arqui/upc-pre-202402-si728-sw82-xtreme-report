@@ -545,18 +545,18 @@ En esta sección, como equipo, explicamos y presentamos los avances en implement
         <tr>
             <td>Backend</td>
             <td>Main</td>
-            <td></td>
-            <td></td>
+            <td>e18bee3a398c7e66aa0a2a16084678e37b40f61c</td>
+            <td>Four commit</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 02,2024</td>
         </tr>
         <tr>
             <td>Backend</td>
             <td>Main</td>
-            <td></td>
-            <td></td>
+            <td>87fcb6d4a0f4e0bb0b7089b0a589176086e0fcf9</td>
+            <td>Add or update the Azure App Service build and deployment workflow config</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 02,2024</td>
         </tr>
     </tbody>
 </table>
