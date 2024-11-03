@@ -533,6 +533,48 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 - ¿Recomendaría esta aplicación a otros que comparten el interés por el alpinismo y actividades de aventura? ¿Por qué?
 
 ### 7.3.2. Registro de Entrevistas.
+En esta sección, se detalla el registro de entrevistas, que incluye la información de los entrevistados y un resumen descriptivo de sus respuestas. Cada entrevista es registrada en video y se proporciona un enlace al video editado junto con el timing y duración de cada entrevista. Se recopilan tanto características objetivas como subjetivas para construir arquetipos basados en esta información.
+
+Entrevista 1: 
+- Nombre completo: Abel Montoya
+- Edad: 23 años
+- Distrito: Agustino
+
+**Screenshot aca**
+
+- Link del video:
+- Timing de la entrevista: 00:00 - 00:00
+- Duración de la entrevista: 
+
+Resumen:
+Abel Montoya, de 23 años, vive en el distrito del Agustino y hace ejercicio tres veces por semana pero no practica alpinismo ni senderismo. Durante la entrevista, mencionó que a pesar que no lo practica si le gastaría en algún momento probarlo mas que todo por la experiencia y las vistas.
+
+Cuando le presentamos nuestra propuesta, mostró gran interés en la lógica del negocio. Según él, esto ahorraría tiempo a los turistas que buscan ciertos lugares que cumplan con sus propios requisitos para esto el buscador con filtro presento una solución. También valoró la idea de poder ver mucho información clave en cada publicación del home como la dificultad, el precio y la descripción del recorrido.
+
+El dispositivo IOT que le presentamos le pareció una idea innovadora y muy útil para las personas que practican estos deporte. Destaco los informes en tiempo real que visualizaría la agencia y el turistas desde su propio dispositivo móvil. Esto seria muy útil para marcar tiempos, pathings y socorrer lo mas pronto a alguien que lo necesite en caso de un accidente. 
+
+Al finalizar la entrevista, Abel sugirió una mejora adicional para nuestra solución: Acelerar los tiempos de carga. Esto, según él, haría mas cómoda y con un mejor flujo la navegación en la web.
+
+Entrevista 2: 
+- Nombre completo: Diego Acosta
+- Edad: 24 años
+- Distrito: San Miguel 
+
+**Screenshot aca**
+
+- Link del video:
+- Timing de la entrevista: 00:00 - 00:00
+- Duración de la entrevista: 
+
+Resumen:
+Diego Acosta, de 24 años, vive en el distrito de San Miguel y practica senderismo una vez al año en viajes familiares. Durante la entrevista, menciono que le gustaria practicar mas estos deportes pero no sabe quien lo podría orientar.
+
+Cuando le presentamos nuestra propuesta, mostró gran interés en como están distribuidos los paquetes y la información completa que ofrecen. Según él, las estadísticas que muestran en cada publicación son las características mas importantes que alguien interesado podría pedir ya que en su experiencia muchas veces las agencias se guardan información importante. También valoró la idea de poder dejar reseñas en las publicaciones y poder leer la de otros usuarios porque así podría juzgar mejor si quiere o no ese paquete..
+
+El dispositivo IOT que le presentamos le pareció una idea revolucionaria. Destaco que la informacion en tiempo real que se mostrara puede ser muy util para personas que sufran problemas al corazon como taticardias, o infartos. Esto seria muy útil para socorrer de forma rapida a gente que tenga un infarto, un golpe de calor o que simplemente se perdio siendo ubicado rapidamente con el gps. 
+
+Al finalizar la entrevista, Diego destaco bastante el uso de la aplicacion movil para poder ver tus propios datos y mantener el control sobre estos mismos. Esto ayudaria a estar preparados para ciertos inconvenientes que se podrian presentar en media caminata.
+
 ### 7.3.3. Evaluaciones según heurísticas.
 # Evaluación según Heurísticas de UX
 **Usabilidad – Diseño Inclusivo – Arquitectura de la Información**  
