@@ -473,9 +473,14 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 | US-27 | Monitorear datos del turista | US-27-1 | **Como** turista deseo revisar mis datos de actividad (pasos, latidos del corazón, temperatura y ubicación) obtenidos a través de mis botas o reloj durante mi experiencia de alpinismo **para** poder monitorear mi estado físico y condiciones durante la actividad. | 8 | Fiorella Valencia \- Emerson Quispe \- Franco Surco |  | In-Process |
 | US-28 | Ver datos de turistas por agencia | US-28-1 | **Como** agencia de turismo deseo poder acceder a los datos de actividad de los turistas que han utilizado mis servicios, **para** poder monitorear su progreso y ofrecer recomendaciones de seguridad. | 8 | Fiorella Valencia \-  Emerson Quispe |  | In-Process |
 #### 7.2.1.3. Development Evidence for Sprint Review.
+En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 1. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
+
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review.
+En esta sección, el equipo presenta el conjunto de pruebas automatizadas realizadas durante el Sprint 1, incluyendo Unit Tests, Integration Tests y Acceptance Tests. Se detallan las clases y comportamientos asociados a cada test, y se incluyen ejemplos de los archivos .feature y Steps para los tests de BDD. También proporcionamos la ruta del repositorio y los commits relacionados con los avances en testing.
 #### 7.2.1.5. Execution Evidence for Sprint Review.
+En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 1. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review.
+En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 1. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
 - Landing Page
 <img src="./Resources/images/landing-5.png">
