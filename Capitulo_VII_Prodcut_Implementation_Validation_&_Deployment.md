@@ -569,6 +569,14 @@ En esta sección, se proporciona un resumen de los logros alcanzados durante el 
 
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 1. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
+
+<img src="./Resources/images/swagger-1.png">
+<img src="./Resources/images/swagger-2.png">
+<img src="./Resources/images/swagger-3.png">
+<img src="./Resources/images/swagger-4.png">
+<img src="./Resources/images/swagger-5.png">
+
+
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
 - Landing Page
 <img src="./Resources/images/landing-5.png">
