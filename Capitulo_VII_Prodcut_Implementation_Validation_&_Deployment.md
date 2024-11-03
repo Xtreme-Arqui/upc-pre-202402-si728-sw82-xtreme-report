@@ -560,10 +560,13 @@ En esta sección, como equipo, explicamos y presentamos los avances en implement
         </tr>
     </tbody>
 </table>
+
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review.
 En esta sección, el equipo presenta el conjunto de pruebas automatizadas realizadas durante el Sprint 1, incluyendo Unit Tests, Integration Tests y Acceptance Tests. Se detallan las clases y comportamientos asociados a cada test, y se incluyen ejemplos de los archivos .feature y Steps para los tests de BDD. También proporcionamos la ruta del repositorio y los commits relacionados con los avances en testing.
+
 #### 7.2.1.5. Execution Evidence for Sprint Review.
 En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 1. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
+
 #### 7.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 1. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
