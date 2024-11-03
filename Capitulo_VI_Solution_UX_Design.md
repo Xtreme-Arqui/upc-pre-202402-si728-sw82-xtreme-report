@@ -5,7 +5,7 @@
 
 En esta sección, definiremos el logotipo de nuestra aplicación con el objetivo de darla a conocer a los usuarios. Nuestro propósito principal es generar percepciones favorables, añadir valor a nuestros servicios y posicionar nuestra marca de manera efectiva en el mercado. A través de un diseño distintivo y coherente, buscamos crear una identidad visual que refleje la innovación y eficiencia de nuestros servicios.
 
-<img src="./Resources/images/logo.png">
+<img src="./Resources/images/trailsync.png">
 
 - Typography
 
