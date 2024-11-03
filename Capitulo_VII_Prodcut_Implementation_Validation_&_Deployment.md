@@ -538,7 +538,7 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 - ¿Recomendaría esta aplicación a otros que comparten el interés por el alpinismo y actividades de aventura? ¿Por qué?
 
 ### 7.3.2. Registro de Entrevistas.
-En esta sección, se detalla el registro de entrevistas, que incluye la información de los entrevistados y un resumen descriptivo de sus respuestas. Cada entrevista es registrada en video y se proporciona un enlace al video editado junto con el timing y duración de cada entrevista. Se recopilan tanto características objetivas como subjetivas para construir arquetipos basados en esta información.
+En esta sección se registrarán las entrevistas realizadas con la información recolectada de las respuestas realizadas en la sección de diseño de entrevista.
 
 Entrevista 1: 
 - Nombre completo: Abel Montoya
@@ -579,6 +579,17 @@ Cuando le presentamos nuestra propuesta, mostró gran interés en como están di
 El dispositivo IOT que le presentamos le pareció una idea revolucionaria. Destaco que la informacion en tiempo real que se mostrara puede ser muy util para personas que sufran problemas al corazon como taticardias, o infartos. Esto seria muy útil para socorrer de forma rapida a gente que tenga un infarto, un golpe de calor o que simplemente se perdio siendo ubicado rapidamente con el gps. 
 
 Al finalizar la entrevista, Diego destaco bastante el uso de la aplicacion movil para poder ver tus propios datos y mantener el control sobre estos mismos. Esto ayudaria a estar preparados para ciertos inconvenientes que se podrian presentar en media caminata.
+
+Entrevista 3:
+- Nombre: Camila
+- Apellidos: La Torre
+- Edad: 25
+- Distrito: Lima, Pueblo Libre
+- Ocupación: Médica
+- Link: 
+
+Resumen:
+Camila La Torre, una médica de 25 años de Lima, evaluó la aplicación de manera positiva. Destacó su diseño visual atractivo y la facilidad de uso de la interfaz, lo cual le resultó intuitivo y bien organizado. El contenido de la página de inicio le pareció lo suficientemente interesante como para motivarla a registrarse, especialmente por la funcionalidad de monitoreo mediante dispositivos IoT, que incluye parámetros como temperatura, localización y ritmo cardíaco, características que consideró muy útiles para actividades de alpinismo. Aunque no sugirió mejoras ni funcionalidades adicionales, expresó que el conjunto actual cumple con sus expectativas. Además, mencionó que estaría dispuesta a pagar por un plan si incluye características avanzadas de seguridad. En general, cree que la aplicación cubre las necesidades de los interesados en alpinismo y estaría dispuesta a recomendarla.
 
 ### 7.3.3. Evaluaciones según heurísticas.
 # Evaluación según Heurísticas de UX
@@ -642,3 +653,6 @@ Al finalizar la entrevista, Diego destaco bastante el uso de la aplicacion movil
 <img src="./Resources/heuristic2.png">
 
 ## 7.4. Video About-the-Product
+Se presenta el video About the Product. En el cúal se muestra la aplicación de TrailSync.
+
+<img src="./Resources/abouteam.png">
