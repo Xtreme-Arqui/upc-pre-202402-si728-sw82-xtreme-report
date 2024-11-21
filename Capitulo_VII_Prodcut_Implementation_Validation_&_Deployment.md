@@ -601,14 +601,23 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 
 - Backend
 <img src="./Resources/images/team-2.png">
+
 ### 7.2.1. Sprint 2
+
 #### 7.2.2.1. Sprint Planning 2.
+
 #### 7.2.2.2. Sprint Backlog 2.
+
 #### 7.2.2.3. Development Evidence for Sprint Review
+
 #### 7.2.2.4. Testing Suite Evidence for Sprint Review
-#### 7.2.2.5. Execution Evidence for Sprint Review.
-#### 7.2.2.6. Services Documentation Evidence for Sprint Review.
-#### 7.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 7.2.2.5. Execution Evidence for Sprint Review
+
+#### 7.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 7.2.2.7. Software Deployment Evidence for Sprint Review
+
 
 - Frontend
 <img src="./Resources/images/front-5.png">
@@ -620,15 +629,18 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 <img src="./Resources/images/back-sprint2-2.jpeg">
 
 <img src="./Resources/images/back-sprint2-3.jpeg">
+
 #### 7.2.2.8. Team Collaboration Insights during Sprint.
+
 - Frontend
-<img src="./Resources/images/team-5.jpeg">
+<img src="./Resources/images/back-sprint2-5.jpeg">
 
 - Backend
 <img src="./Resources/images/back-sprint2-4.jpeg">
 
 - Mobile
 <img src="./Resources/images/back-sprint2-6.jpeg">
+
 ## 7.3. Validation Interviews.
 ### 7.3.1. Diseño de Entrevistas
 # Entrevista de Validación para la Aplicación de Turismo de Alpinismo
