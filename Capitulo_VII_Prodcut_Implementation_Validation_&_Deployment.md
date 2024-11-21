@@ -615,20 +615,20 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 
 -Backend
 
-<img src="./Resources/images/back-sprint2-1.jpg">
+<img src="./Resources/images/back-sprint2-1.jpeg">
 
-<img src="./Resources/images/back-sprint2-2.jpg">
+<img src="./Resources/images/back-sprint2-2.jpeg">
 
-<img src="./Resources/images/back-sprint2-3.jpg">
+<img src="./Resources/images/back-sprint2-3.jpeg">
 #### 7.2.2.8. Team Collaboration Insights during Sprint.
 - Frontend
-<img src="./Resources/images/team-5.png">
+<img src="./Resources/images/team-5.jpeg">
 
 - Backend
-<img src="./Resources/images/back-sprint2-4.png">
+<img src="./Resources/images/back-sprint2-4.jpeg">
 
 - Mobile
-<img src="./Resources/images/back-sprint2-6.png">
+<img src="./Resources/images/back-sprint2-6.jpeg">
 ## 7.3. Validation Interviews.
 ### 7.3.1. Diseño de Entrevistas
 # Entrevista de Validación para la Aplicación de Turismo de Alpinismo
