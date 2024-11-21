@@ -2340,10 +2340,8 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 - Frontend
 <img src="./Resources/images/front-5.png">
 
--Backend
-
+- Backend
 <img src="./Resources/images/back-6.jpg">
-
 <img src="./Resources/images/back-7.jpg">
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint.
@@ -2352,6 +2350,58 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 
 - Backend
 <img src="./Resources/images/team-2.png">
+
+
+### 7.2.1. Sprint 2
+
+#### 7.2.2.1. Sprint Planning 2.
+
+#### 7.2.2.2. Sprint Backlog 2.
+
+#### 7.2.2.3. Development Evidence for Sprint Review
+
+#### 7.2.2.4. Testing Suite Evidence for Sprint Review
+- Feature: Publicación de servicios en la aplicación web (commit: 2571154)
+<img src="./Resources/images/tests/HU03.png">
+
+- Feature: Búsqueda de servicios (commit: 099246f)
+<img src="./Resources/images/tests/HU04.png">
+
+- Feature: Contactar con agencia que brinda el servicio (commit: fc3e8ac)
+<img src="./Resources/images/tests/HU05.png">
+
+- Feature: Monitoreo de aventureros (commit: 485d6ae)
+<img src="./Resources/images/tests/HU06.png">
+
+- Feature: Comentarios a un servicio (commit: a08b5f7)
+<img src="./Resources/images/tests/HU07.png">
+
+#### 7.2.2.5. Execution Evidence for Sprint Review
+
+#### 7.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 7.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+- Frontend
+<img src="./Resources/images/front-5.png">
+
+- Backend
+<img src="./Resources/images/back-sprint2-1.jpeg">
+<img src="./Resources/images/back-sprint2-2.jpeg">
+<img src="./Resources/images/back-sprint2-3.jpeg">
+
+#### 7.2.2.8. Team Collaboration Insights during Sprint.
+
+- Frontend
+<img src="./Resources/images/back-sprint2-5.jpeg">
+
+- Backend
+<img src="./Resources/images/back-sprint2-4.jpeg">
+
+- Mobile
+<img src="./Resources/images/back-sprint2-6.jpeg">
+
 
 ## 7.3. Validation Interviews.
 ### 7.3.1. Diseño de Entrevistas
