@@ -197,7 +197,10 @@ TP:
 Evaluamos las principales historias de usuario y en base a eso, se realizo   las diferentes vistas para el sector de agencias y el sector de turistas.  Ademas se realizó el wireflow diagram para las aplicaciones web y movil.
 
 TB2:
-Trabajé en el desarrollo del frontend, enfocándome en crear interfaces intuitivas y funcionales que se comunicaran correctamente con los servicios del backend, facilitando una experiencia de usuario coherente y fluida.
+Trabajé en el desarrollo del frontend, enfocándome en crear interfaces intuitivas y funcionales que se comunicaran correctamente con los servicios del backend, facilitando una experiencia de usuario coherente y fluida.  
+
+TF:
+Trabaje en el desarrollo del aplicación IoT, en donde tuve que ver otros poyectos relacionados para poder implementar las funciones necesarias en nuestra herramienta de recolección de datos.
 
 Franco Marcelo Manuel Surco Reyes   
 TB1:
@@ -252,6 +255,12 @@ Al salir a entrevistar a las personas para conocer mejor el publico objetivo, se
 
 TP: 
 Al realizar los primeros wireframes que serviran de guia para el diseño de nuestras aplicaciones se obtuvo una vision más clara para su produccion, tambien se desarrollaron los primeros wireflows que ayudaron con la navegacion de las aplicaciones.
+
+TB2:
+En el desarrollo de la aplicación web, aprendi nuevos metodos de ruteo, para mejorar la eficacia de las vistas dependiendo del usuario que quiera ingresar a la aplicación, además de emplear metodos de seguridad para la navegacion de rutas dentro de la aplicación web.  
+
+TF:
+Para el desarrollo de la aplicación IoT, encontre nuevos datos que se pueden calcular apartir de los datos recopilados y que pueden servir para el interes de los usuarios que usen las botas inteligentes.
 
 
 Arnol Omar Caceres Bueno    
