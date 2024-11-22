@@ -620,7 +620,6 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 | Sprint 2 Velocity | Para este sprint calculamos que podemos aceptar 24 Story Points |
 | Sum of Story Points | 24 |
 #### 7.2.2.2. Sprint Backlog 2.
-
 | Sprint \# | Sprint 1 |  |  |  |  |  |  |
 | ----- | ----- | ----- | ----- | ----- | :---- | :---- | :---- |
 | User Story |  | Work-Item / Task |  |  |  |  |  |
