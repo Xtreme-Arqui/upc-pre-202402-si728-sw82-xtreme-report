@@ -188,6 +188,8 @@ Me encargué de diseñar el Domain Layer y el Application Layer, asegurando una 
 
 TB2:
  Me encargué de avanzar con el desarrollo del backend, asegurando que los servicios principales estuvieran correctamente implementados y listos para su integración con el frontend. Esto incluyó pruebas iniciales para verificar la funcionalidad y estabilidad de los endpoints.
+
+ TF: Trabajé en el desarrollo del backend y en la conexión con los dispositivos IoT, asegurando la integración fluida de los datos recolectados con nuestra infraestructura de servidor. 
  
 Emerson Gerardo Quispe Villegas   
 TB1:
@@ -212,6 +214,9 @@ Fui responsable del diseño de la Infraestructura y los diagramas de base de dat
 TB2:
 Mi responsabilidad fue coordinar la integración del backend y frontend, gestionando la configuración de las conexiones y asegurando una comunicación estable entre ambos, para ofrecer una experiencia completa en la aplicación.
 
+TF:
+Me encargué de la conexión del frontend con el backend, facilitando la comunicación entre la interfaz de usuario y los servicios de backend para una experiencia integrada y eficiente.
+
 Arnol Omar Caceres Bueno    
 TB1:
 Se hicieron entrevistas con la finalidad de tener una mayor comprensión de   las necesidades del usuario.   
@@ -222,6 +227,9 @@ Diseñé los wireframes y mock-ups de la landing page, enfocándome en crear una
 TB2:
 Me encargué del despliegue de los servicios en el entorno de producción, configurando los recursos necesarios y gestionando los accesos. Esto permitió que todo el equipo pudiera realizar pruebas de manera continua y detectar posibles mejoras.
 
+TF:
+Trabajé en el desarrollo de la aplicación móvil, enfocándome en implementar funcionalidades clave para la recolección de datos y asegurar una experiencia de usuario fluida en dispositivos móviles.
+
 Piero Stefano Márquez    
 TB1: 
 Se llevaron a cabo análisis de entrevistas de cada segmento objetivo para    obtener una comprensión completa de las necesidades del usuario. Esto    permitió abordar y resolver esas necesidades.   
@@ -231,6 +239,8 @@ Me centré en la arquitectura de la información y los sistemas de navegación, 
 
 TB2:
 Realicé pruebas exhaustivas de los servicios desplegados, enfocándome en verificar que las funcionalidades principales cumplieran con los requisitos establecidos y ayudando a identificar y corregir errores para mejorar la estabilidad del sistema.
+
+TF: Me encargué del desarrollo de la aplicación móvil, con especial atención en optimizar la interfaz de usuario y garantizar la interacción eficiente con los datos recolectados por la aplicación IoT.
 
 </td>
     <td>
@@ -248,6 +258,10 @@ Mediante los user Flow diagrams,se mostró al usuario el flujo que va a tener la
 
 TP:
 Me encargué de diseñar las capas Domain y Application, asegurando una base sólida para la lógica de negocio y la escalabilidad del sistema.
+
+TF: 
+Para el desarrollo de la aplicación IoT, diseñé y desarrollé la lógica en el backend que permite calcular nuevos datos a partir de los datos recopilados, proporcionando información relevante y de valor para los usuarios de las botas inteligentes.
+
 
 Emerson Gerardo Quispe Villegas    
 TB1:   
@@ -270,6 +284,9 @@ Mediante los user persona se creó un usuario imaginario con las característica
 TP:
 Me encargué de crear los wireframes y mock-ups de la landing page, asegurándome de que el diseño sea atractivo y fácil de usar para los visitantes desde el primer momento.
 
+TF: 
+En el desarrollo de la aplicación móvil para IoT, trabajé en la visualización de los nuevos datos derivados de la información recopilada, brindando a los usuarios de las botas inteligentes información clara y útil.
+
 Piero Stefano Márquez	
 TB1:    
 En esta entrega analizamos todo lo relacionado al contexto del proyecto, todo aquello que involucra a los posibles competidores, análisis del mercado en los diferentes segmentos objetivos.  
@@ -277,12 +294,18 @@ En esta entrega analizamos todo lo relacionado al contexto del proyecto, todo aq
 TP:
 Mi contribución se centró en la arquitectura de la información y los sistemas de navegación, mejorando la usabilidad del sistema y optimizando su visibilidad a través de SEO y meta etiquetas.
 
+TF:
+En el desarrollo de la aplicación móvil IoT, optimicé la experiencia de usuario al presentar los nuevos datos calculados a partir de la información recopilada, ayudando a que los usuarios de las botas inteligentes comprendan mejor sus métricas.
+
 Franco Marcelo Manuel Surco Reyes	 
 TB1:    
 En nuestra primera entrega realizamos la introducción al startup, el análisis Lean UX Process para analizar y reconocer las necesidades del usuario.
 
 TP:
 Fui responsable del diseño de la capa de infraestructura y los diagramas de base de datos, garantizando que la interacción entre la lógica de negocio y el almacenamiento de datos sea eficiente y confiable.
+
+TF: 
+Durante el desarrollo de la aplicación IoT, implementé la integración de nuevos datos calculados a partir de la información recopilada, asegurando que estos resultados sean accesibles a través de la interfaz para los usuarios de las botas inteligentes.
 
 </td>
     <td>
