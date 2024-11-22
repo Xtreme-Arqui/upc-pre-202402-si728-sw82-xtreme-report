@@ -2387,10 +2387,151 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 ### 7.2.1. Sprint 2
 
 #### 7.2.2.1. Sprint Planning 2.
+| Sprint \# | Sprint 2 |
+| :---- | :---- |
+| **Sprint Planning Background** |  |
+| Date | 2024-11-10 |
+| Time | 19:20 PM |
+| Location | Virtual (Plataforma Discord) |
+| Prepared By | Arnol Caceres |
+| Attendees (to planning meeting) | Arnol Caceres, Emerson Quispe, Fiorella Valencia, Franco Surco y Piero Stefano |
+| Sprint n-2 Review Summary | Se realizaron varios moldeamientos a los productos actuales gracias a las entrevistas realizadas durante este Sprint, ademas de realizar las primeras versiones de cada producto(Web Application, Mobile Application, IoT Embedded App, Cloud Service, Edge Service, etc). |
+| Sprint n-2 Retrospective Summary | Se evidenció una falta de fuentes confiables al momento de realizar las investigaciones previas para el desarrollo, documentación y despliegue de los productos. Por esta razón, se detallará mejor la documentación del siguiente Sprint |
+| **Sprint Goal & User Stories** | 4 |
+| Sprint 2 Goal | \- Corregir los puntos de documentación de la entrega anterior \- Desplegar segunda versión de frontend \- Desplegar segunda versión de backend \- Desplegar primera version del wokwi \- Desplegar primera version del mobile   |
+| Sprint 2 Velocity | Para este sprint calculamos que podemos aceptar 24 Story Points |
+| Sum of Story Points | 24 |
 
 #### 7.2.2.2. Sprint Backlog 2.
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- | :---- | :---- | :---- |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+|  Id | Título | id | Descripcion | Estimation (Hours) |  | Assigned To | Status(To-do / InProcess / ToReview / Done) |
+| US-24 | Protección de data | US-24-1 | **Como** usuario **Quiero** que mi información personal y financiera esté protegida contra el acceso no autorizado o el robo **Para** que pueda reservar vuelos y hoteles con confianza  | 5 | Fiorella Valencia \- Piero Stefano |  | Done |
+| US-25 | Comentarios para las actividades | US-26-1 | **Como** desarrollador **Quiero** poder mantener y actualizar la aplicación fácilmente a lo largo del tiempo **Para** que pueda seguir siendo útil y relevante a medida que cambian las necesidades del negocio | 5 | Fiorella Valencia \-  Emerson Quispe \- Franco Surco \- Arnol Caceres|  | Done |
+| US-27 | Monitorear datos del turista | US-27-1 | **Como** turista deseo revisar mis datos de actividad (pasos, latidos del corazón, temperatura y ubicación) obtenidos a través de mis botas o reloj durante mi experiencia de alpinismo **para** poder monitorear mi estado físico y condiciones durante la actividad. | 8 | Fiorella Valencia \- Emerson Quispe \- Franco Surco |  | Done |
+| US-28 | Ver datos de turistas por agencia | US-28-1 | **Como** agencia de turismo deseo poder acceder a los datos de actividad de los turistas que han utilizado mis servicios, **para** poder monitorear su progreso y ofrecer recomendaciones de seguridad. | 8 | Fiorella Valencia \-  Emerson Quispe \- Piero Stefano \- Arnol Caceres|  | Done |
 
 #### 7.2.2.3. Development Evidence for Sprint Review
+En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 1. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
+<table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Commit Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Fronted</td>
+            <td>main</td>
+            <td>d4f48e5ba96225a3963e004f9ce7ed2a8291ffa6</td>
+            <td>feat: added monitoring component</td>
+            <td>-</td>
+            <td>Nov 21, 2024</td>
+        </tr>
+        <tr>
+            <td>Mobile</td>
+            <td>main</td>
+            <td>a08a626f37c00527f9d86f3800d26a480c0e62c9</td>
+            <td>add: flutter and dart upgrade</td>
+            <td>-</td>
+            <td>Nov 17,2024</td>
+        </tr>
+        <tr>
+            <td>Mobile</td>
+            <td>develop-home</td>
+            <td>b2a7539ca5ee1147cc29ad67be7708bc74c2463a</td>
+            <td>add: steps and km counter</td>
+            <td>-</td>
+            <td>Nov 17,2024</td>
+        </tr>
+        <tr>
+            <td>Mobile</td>
+            <td>develop-home</td>
+            <td>5cd93430164068b02737ff7a5af7b87ba643a6e6</td>
+            <td>add: Hear Rate in HomeScreen</td>
+            <td>-</td>
+            <td>Nov 17,2024</td>
+        </tr>
+        <tr>
+            <td>Mobile</td>
+            <td>develop-home</td>
+            <td>ce7c4e165220d863af217e611d3827b54a6d97b0</td>
+            <td>add: device screen</td>
+            <td>-</td>
+            <td>Nov 18,2024</td>
+        </tr>
+        <tr>
+            <td>Mobile</td>
+            <td>develop-account/profile</td>
+            <td>ab88e47a3a93f5740d05a7269a6c9642caaf9a53</td>
+            <td>add: profile screen</td>
+            <td>-</td>
+            <td>Nov 18,2024</td>
+        </tr>
+        <tr>
+            <td>Mobile</td>
+            <td>develop-account/profile</td>
+            <td>e07aa8e1a8b3a5c36881d8cc5119a930722fc7d7</td>
+            <td>add: account screen</td>
+            <td>-</td>
+            <td>Nov 18,2024</td>
+        </tr>
+        <tr>
+            <td>Backend_TrailSync</td>
+            <td>main</td>
+            <td>4a99ba50425c31cf25dcb57bac6e0868c7702394</td>
+            <td>feat(boot): add new entity</td>
+            <td>-</td>
+            <td>Nov 17,2024</td>
+        </tr>
+        <tr>
+            <td>Backend_TrailSync</td>
+            <td>main</td>
+            <td>cbd408317ea535baa07c71f48a9566e5f8c4f6c2</td>
+            <td>feat(Boot): add update response</td>
+            <td>-</td>
+            <td>Nov 17,2024</td>
+        </tr>
+        <tr>
+            <td>Backend_TrailSync</td>
+            <td>main</td>
+            <td>9eca5c1badae912c4948d76d9d7cf1a144c0c2a2</td>
+            <td>feat(Boot): add getters and setters</td>
+            <td>-</td>
+            <td>Nov 17,2024</td>
+        </tr>
+        <tr>
+            <td>Backend_TrailSync</td>
+            <td>main</td>
+            <td>df513bfee6b71525304bb9883d12ab7abef5cbe7</td>
+            <td>feat(Boot)</td>
+            <td>-</td>
+            <td>Nov 21,2024</td>
+        </tr>
+        <tr>
+            <td>IoT-sensors</td>
+            <td>main</td>
+            <td>f339adbad458c12079335f2575589831340992c8</td>
+            <td>create component for sensors</td>
+            <td>-</td>
+            <td>Nov 21,2024</td>
+        </tr>
+        <tr>
+            <td>IoT-gps</td>
+            <td>main</td>
+            <td>87d825ee447480d12c03cff8777bf9547694c968</td>
+            <td>create components for gps</td>
+            <td>-</td>
+            <td>Nov 21,2024</td>
+        </tr>
+    </tbody>
+</table>
 
 #### 7.2.2.4. Testing Suite Evidence for Sprint Review
 - Feature: Publicación de servicios en la aplicación web (commit: 2571154)
