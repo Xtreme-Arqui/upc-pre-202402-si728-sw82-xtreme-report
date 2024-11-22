@@ -435,7 +435,7 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 | Attendees (to planning meeting) | Arnol Caceres, Emerson Quispe, Fiorella Valencia, Franco Surco y Piero Stefano |
 | Sprint n-1 Review Summary | No se aplica para esta entrega |
 | Sprint n-1 Retrospective Summary | No se aplica para esta entrega |
-| **Sprint Goal & User Stories ** |  |
+| **Sprint Goal & User Stories ** | 24 |
 | Sprint 1 Goal | \- Corregir los puntos de documentación de la entrega anterior \- Desplegar landing page de Turistas y Agencias \- Desplegar primera versión de frontend \- Desplegar primera versión de backend |
 | Sprint 1 Velocity | Para este sprint calculamos que podemos aceptar 130 Story Points |
 | Sum of Story Points | 127 |
@@ -465,8 +465,8 @@ En esta seccion se mostrara la configuracion que se realizo para el landing page
 | US-11 | Calificar servicio | US-11-1 | **Como** turista **deseo** calificar el servicio que contraté **para** mostrar mi agrado o desagrado y más usuarios sepan sobre el mismo. | 3 | Fiorella Valencia \- Piero Stefano |  | Done |
 | US-09 | Cambiar plan de suscripción | US-09-1 | **Como** agencia **deseo** cambiar mi plan de suscripción **para** ofrecer más servicios a mis clientes. | 8 | Fiorella Valencia \- Piero Stefano |  | Done |
 | US-10 | Crear promociones | US-10-1 | **Como** agencia **deseo** crear campañas de promoción **para** llegar a más clientes. | 5 | Franco Surco \- Arnol Caceres |  | Done |
-| US-21 | Acceso al aplicativo | US-21-1 | **Como** usuario de “Go2Climb**” Quiero** poder utilizar la aplicación desde diferentes navegadores **Para** poder buscar agencias y servicios de alpinismo sin estar limitado a un navegador. | 3 | Piero Stefano |  | Done |
-| US-22 | Velocidad de carga | US-22-1 | **Como** usuario de la plataforma  **Quiero** que la velocidad de carga de la aplicación sea rápida y eficiente**, Para** poder acceder rápidamente a la información de las agencias y servicios  sin demoras.  | 3 | Piero Stefano |  | Done |
+| US-21 | Acceso al aplicativo | US-21-1 | **Como** usuario de “Go2Climb” **Quiero** poder utilizar la aplicación desde diferentes navegadores **Para** poder buscar agencias y servicios de alpinismo sin estar limitado a un navegador. | 3 | Piero Stefano |  | Done |
+| US-22 | Velocidad de carga | US-22-1 | **Como** usuario de la plataforma  **Quiero** que la velocidad de carga de la aplicación sea rápida y eficiente, **Para** poder acceder rápidamente a la información de las agencias y servicios  sin demoras.  | 3 | Piero Stefano |  | Done |
 | US-23 | Interfaz interactiva y deductiva | US-23-1 | **Como** usuario **Quiero** poder buscar y reservar vuelos y hoteles de manera rápida y sencilla **Para** que pueda planificar mis viajes sin problemas | 3 | Emerson Quispe |  | Done |
 | US-24 | Protección de data | US-24-1 | **Como** usuario **Quiero** que mi información personal y financiera esté protegida contra el acceso no autorizado o el robo **Para** que pueda reservar vuelos y hoteles con confianza  | 5 | Fiorella Valencia \- Piero Stefano |  | In-Process |
 | US-26 | Comentarios para las actividades | US-26-1 | **Como** turista de la plataforma, **quiero** poder compartir mis comentarios y opiniones sobre las actividades proporcionadas por las empresas, **para** que otros usuarios puedan tomar decisiones informadas sobre su participación en esas actividades. | 5 | Fiorella Valencia \-  Emerson Quispe  |  | Done |
@@ -605,8 +605,30 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 ### 7.2.1. Sprint 2
 
 #### 7.2.2.1. Sprint Planning 2.
-
+| Sprint \# | Sprint 2 |
+| :---- | :---- |
+| **Sprint Planning Background** |  |
+| Date | 2024-11-10 |
+| Time | 19:20 PM |
+| Location | Virtual (Plataforma Discord) |
+| Prepared By | Arnol Caceres |
+| Attendees (to planning meeting) | Arnol Caceres, Emerson Quispe, Fiorella Valencia, Franco Surco y Piero Stefano |
+| Sprint n-2 Review Summary | Se realizaron varios moldeamientos a los productos actuales gracias a las entrevistas realizadas durante este Sprint, ademas de realizar las primeras versiones de cada producto(Web Application, Mobile Application, IoT Embedded App, Cloud Service, Edge Service, etc). |
+| Sprint n-2 Retrospective Summary | Se evidenció una falta de fuentes confiables al momento de realizar las investigaciones previas para el desarrollo, documentación y despliegue de los productos. Por esta razón, se detallará mejor la documentación del siguiente Sprint |
+| **Sprint Goal & User Stories** | 4 |
+| Sprint 2 Goal | \- Corregir los puntos de documentación de la entrega anterior \- Desplegar segunda versión de frontend \- Desplegar segunda versión de backend \- Desplegar primera version del wokwi \- Desplegar primera version del mobile   |
+| Sprint 2 Velocity | Para este sprint calculamos que podemos aceptar 24 Story Points |
+| Sum of Story Points | 24 |
 #### 7.2.2.2. Sprint Backlog 2.
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- | :---- | :---- | :---- |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+|  Id | Título | id | Descripcion | Estimation (Hours) |  | Assigned To | Status(To-do / InProcess / ToReview / Done) |
+| US-24 | Protección de data | US-24-1 | **Como** usuario **Quiero** que mi información personal y financiera esté protegida contra el acceso no autorizado o el robo **Para** que pueda reservar vuelos y hoteles con confianza  | 5 | Fiorella Valencia \- Piero Stefano |  | Done |
+| US-25 | Comentarios para las actividades | US-26-1 | **Como** desarrollador **Quiero** poder mantener y actualizar la aplicación fácilmente a lo largo del tiempo **Para** que pueda seguir siendo útil y relevante a medida que cambian las necesidades del negocio | 5 | Fiorella Valencia \-  Emerson Quispe \- Franco Surco \- Arnol Caceres|  | Done |
+| US-27 | Monitorear datos del turista | US-27-1 | **Como** turista deseo revisar mis datos de actividad (pasos, latidos del corazón, temperatura y ubicación) obtenidos a través de mis botas o reloj durante mi experiencia de alpinismo **para** poder monitorear mi estado físico y condiciones durante la actividad. | 8 | Fiorella Valencia \- Emerson Quispe \- Franco Surco |  | Done |
+| US-28 | Ver datos de turistas por agencia | US-28-1 | **Como** agencia de turismo deseo poder acceder a los datos de actividad de los turistas que han utilizado mis servicios, **para** poder monitorear su progreso y ofrecer recomendaciones de seguridad. | 8 | Fiorella Valencia \-  Emerson Quispe \- Piero Stefano \- Arnol Caceres|  | Done |
 
 #### 7.2.2.3. Development Evidence for Sprint Review
 
