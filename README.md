@@ -2415,7 +2415,7 @@ En esta sección, se proporciona un resumen de los logros alcanzados durante el 
 - Despliegue del Frontend mobile
 <img src="./Resources/images/frontend-desplegado.png">
 <img src="./Resources/images/login-mobile.jpg">
-<img src="./Resources/images/home-mobile.jpg">
+<img src="./Resources/home-mobile.jpg">
 
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 
