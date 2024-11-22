@@ -2410,7 +2410,18 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 
 #### 7.2.2.5. Execution Evidence for Sprint Review
 
+En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 2. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
+
+- Despliegue del Frontend mobile
+<img src="./Resources/images/frontend-desplegado.png">
+<img src="./Resources/images/login-mobile.jpg">
+
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
+
+En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 2. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
+
+<img src="./Resources/images/swagger-desplegado.png">
+
 
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
 
